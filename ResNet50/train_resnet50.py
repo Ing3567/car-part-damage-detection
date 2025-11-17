@@ -1,4 +1,3 @@
-# train_resnet50.py
 import argparse, os, time
 from pathlib import Path
 import numpy as np
@@ -145,7 +144,6 @@ def main():
                 "classes": class_names,
                 "img_size": args.imgsz
             }, best_path)
-            # รายงาน confusion matrix & report
             cm = confusion_matrix(gts, preds)
             print("Confusion Matrix:\n", cm)
             print(classification_report(gts, preds, target_names=class_names))

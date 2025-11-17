@@ -1,4 +1,3 @@
-# infer_folder_ts.py  (ใช้ TorchScript)
 import csv, time
 from pathlib import Path
 from PIL import Image
