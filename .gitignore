@@ -1,0 +1,9 @@
+﻿.env
+__pycache__/
+Lib/
+Scripts/
+Include/
+share/
+pyvenv.cfg
+.vscode/
+*.pyc

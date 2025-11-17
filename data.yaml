@@ -1,0 +1,6 @@
+path: D:/CPEyear3/CPE310/.Service_AI_CPE310_Car_part_damage/database
+train: train/images
+val: valid/images
+# test: test/images
+nc: 10
+names: ['door', 'fender', 'front_bumper', 'headlight', 'hood', 'rear mirror', 'rear_bumper', 'side_mirror', 'taillight', 'windshield']

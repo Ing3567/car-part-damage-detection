@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+ultralytics==8.3.213
+opencv-python-headless==4.10.0.84
+boto3==1.35.20
+botocore==1.35.20
+python-dotenv==1.0.1
+requests==2.32.3
+# 👇 เพิ่ม PyTorch (จะติดตั้งผ่าน index พิเศษใน Dockerfile)
+torch==2.3.1
+torchvision==0.18.1
+numpy==1.26.4

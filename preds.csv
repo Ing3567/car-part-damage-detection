@@ -1,0 +1,1632 @@
+image,pred_class,pred_idx,score
+ResNet50\Car_parts\data3a\validation\01-minor\0001.JPEG,01-minor,0,0.5250536799430847
+ResNet50\Car_parts\data3a\validation\01-minor\0002.JPEG,01-minor,0,0.6176987290382385
+ResNet50\Car_parts\data3a\validation\01-minor\0003.JPEG,01-minor,0,0.7906039953231812
+ResNet50\Car_parts\data3a\validation\01-minor\0004.JPEG,01-minor,0,0.7502057552337646
+ResNet50\Car_parts\data3a\validation\01-minor\0005.JPEG,01-minor,0,0.8080241680145264
+ResNet50\Car_parts\data3a\validation\01-minor\0006.JPEG,01-minor,0,0.893044114112854
+ResNet50\Car_parts\data3a\validation\01-minor\0007.JPEG,01-minor,0,0.7928786873817444
+ResNet50\Car_parts\data3a\validation\01-minor\0008.jpeg,01-minor,0,0.8654858469963074
+ResNet50\Car_parts\data3a\validation\01-minor\0009.jpeg,01-minor,0,0.9920310974121094
+ResNet50\Car_parts\data3a\validation\01-minor\0010.JPEG,01-minor,0,0.9593335390090942
+ResNet50\Car_parts\data3a\validation\01-minor\0011.jpeg,01-minor,0,0.8786228895187378
+ResNet50\Car_parts\data3a\validation\01-minor\0012.JPEG,01-minor,0,0.6857345104217529
+ResNet50\Car_parts\data3a\validation\01-minor\0013.JPEG,01-minor,0,0.6540355682373047
+ResNet50\Car_parts\data3a\validation\01-minor\0014.JPEG,01-minor,0,0.6707021594047546
+ResNet50\Car_parts\data3a\validation\01-minor\0015.JPEG,01-minor,0,0.5769311785697937
+ResNet50\Car_parts\data3a\validation\01-minor\0016.JPEG,01-minor,0,0.8666003346443176
+ResNet50\Car_parts\data3a\validation\01-minor\0017.JPEG,01-minor,0,0.8573789000511169
+ResNet50\Car_parts\data3a\validation\01-minor\0018.JPEG,01-minor,0,0.532931387424469
+ResNet50\Car_parts\data3a\validation\01-minor\0019.JPEG,01-minor,0,0.9287840127944946
+ResNet50\Car_parts\data3a\validation\01-minor\0020.JPEG,02-moderate,1,0.7898179292678833
+ResNet50\Car_parts\data3a\validation\01-minor\0021.JPEG,02-moderate,1,0.9766124486923218
+ResNet50\Car_parts\data3a\validation\01-minor\0022.JPEG,01-minor,0,0.5826466679573059
+ResNet50\Car_parts\data3a\validation\01-minor\0023.JPEG,01-minor,0,0.902876079082489
+ResNet50\Car_parts\data3a\validation\01-minor\0024.JPEG,01-minor,0,0.9659280776977539
+ResNet50\Car_parts\data3a\validation\01-minor\0025.JPEG,01-minor,0,0.9302604794502258
+ResNet50\Car_parts\data3a\validation\01-minor\0026.JPEG,01-minor,0,0.7849351167678833
+ResNet50\Car_parts\data3a\validation\01-minor\0027.jpeg,01-minor,0,0.9420991539955139
+ResNet50\Car_parts\data3a\validation\01-minor\0028.JPEG,01-minor,0,0.5946077704429626
+ResNet50\Car_parts\data3a\validation\01-minor\0029.JPEG,01-minor,0,0.6213605999946594
+ResNet50\Car_parts\data3a\validation\01-minor\0030.JPEG,01-minor,0,0.9614617824554443
+ResNet50\Car_parts\data3a\validation\01-minor\0031.JPEG,01-minor,0,0.953298807144165
+ResNet50\Car_parts\data3a\validation\01-minor\0032.JPEG,01-minor,0,0.9474199414253235
+ResNet50\Car_parts\data3a\validation\01-minor\0033.JPEG,01-minor,0,0.7963644862174988
+ResNet50\Car_parts\data3a\validation\01-minor\0034.JPEG,01-minor,0,0.5152953267097473
+ResNet50\Car_parts\data3a\validation\01-minor\0035.JPEG,01-minor,0,0.7680687308311462
+ResNet50\Car_parts\data3a\validation\01-minor\0036.JPEG,02-moderate,1,0.7144514322280884
+ResNet50\Car_parts\data3a\validation\01-minor\0037.JPEG,01-minor,0,0.7484191656112671
+ResNet50\Car_parts\data3a\validation\01-minor\0038.JPEG,01-minor,0,0.9684150815010071
+ResNet50\Car_parts\data3a\validation\01-minor\0039.JPEG,01-minor,0,0.5849456191062927
+ResNet50\Car_parts\data3a\validation\01-minor\0040.JPEG,01-minor,0,0.9520895481109619
+ResNet50\Car_parts\data3a\validation\01-minor\0041.JPEG,01-minor,0,0.7162860035896301
+ResNet50\Car_parts\data3a\validation\01-minor\0042.JPEG,01-minor,0,0.6967245936393738
+ResNet50\Car_parts\data3a\validation\01-minor\0043.JPEG,01-minor,0,0.7540239095687866
+ResNet50\Car_parts\data3a\validation\01-minor\0044.JPEG,01-minor,0,0.8022829294204712
+ResNet50\Car_parts\data3a\validation\01-minor\0045.JPEG,02-moderate,1,0.6818233132362366
+ResNet50\Car_parts\data3a\validation\01-minor\0046.JPEG,01-minor,0,0.4470302164554596
+ResNet50\Car_parts\data3a\validation\01-minor\0047.JPEG,01-minor,0,0.9635790586471558
+ResNet50\Car_parts\data3a\validation\01-minor\0048.JPEG,01-minor,0,0.9034597873687744
+ResNet50\Car_parts\data3a\validation\01-minor\cf1fd966d69f48b89d424463183e8388_thb.jpg,02-moderate,1,0.9476498961448669
+ResNet50\Car_parts\data3a\validation\01-minor\download (3).jpeg,01-minor,0,0.923387885093689
+ResNet50\Car_parts\data3a\validation\01-minor\download.jpeg,01-minor,0,0.8196457624435425
+ResNet50\Car_parts\data3a\validation\01-minor\e9e9890e7b514e51a49442c72f463430_thb.jpg,02-moderate,1,0.8763428330421448
+ResNet50\Car_parts\data3a\validation\01-minor\images (1).jpeg,01-minor,0,0.9196208119392395
+ResNet50\Car_parts\data3a\validation\01-minor\images (100).jpeg,01-minor,0,0.8580505847930908
+ResNet50\Car_parts\data3a\validation\01-minor\images (2).jpeg,01-minor,0,0.8925656676292419
+ResNet50\Car_parts\data3a\validation\01-minor\images (20).jpeg,01-minor,0,0.5270161628723145
+ResNet50\Car_parts\data3a\validation\01-minor\images (3).jpeg,01-minor,0,0.6955314874649048
+ResNet50\Car_parts\data3a\validation\01-minor\images (33).jpeg,01-minor,0,0.8989073634147644
+ResNet50\Car_parts\data3a\validation\01-minor\images (42).jpeg,01-minor,0,0.9448001980781555
+ResNet50\Car_parts\data3a\validation\01-minor\images (43).jpeg,02-moderate,1,0.9534376859664917
+ResNet50\Car_parts\data3a\validation\01-minor\images (52).jpeg,01-minor,0,0.8609907627105713
+ResNet50\Car_parts\data3a\validation\01-minor\images (59).jpeg,01-minor,0,0.7366529703140259
+ResNet50\Car_parts\data3a\validation\01-minor\images (6).jpeg,02-moderate,1,0.6839021444320679
+ResNet50\Car_parts\data3a\validation\01-minor\images (60).jpeg,01-minor,0,0.9286254644393921
+ResNet50\Car_parts\data3a\validation\01-minor\images (65).jpeg,02-moderate,1,0.5983622074127197
+ResNet50\Car_parts\data3a\validation\01-minor\images (68).jpeg,01-minor,0,0.9190329909324646
+ResNet50\Car_parts\data3a\validation\01-minor\images (69).jpeg,01-minor,0,0.9719352722167969
+ResNet50\Car_parts\data3a\validation\01-minor\images (74).jpeg,01-minor,0,0.8410948514938354
+ResNet50\Car_parts\data3a\validation\01-minor\images (75).jpeg,01-minor,0,0.9643270969390869
+ResNet50\Car_parts\data3a\validation\01-minor\images (80).jpeg,01-minor,0,0.8890759944915771
+ResNet50\Car_parts\data3a\validation\01-minor\images (81).jpeg,01-minor,0,0.8791691064834595
+ResNet50\Car_parts\data3a\validation\01-minor\images (84).jpeg,01-minor,0,0.7360430955886841
+ResNet50\Car_parts\data3a\validation\01-minor\images (89).jpeg,01-minor,0,0.6404790878295898
+ResNet50\Car_parts\data3a\validation\01-minor\images (90).jpeg,01-minor,0,0.8464059829711914
+ResNet50\Car_parts\data3a\validation\01-minor\images (95).jpeg,01-minor,0,0.8109234571456909
+ResNet50\Car_parts\data3a\validation\01-minor\images - 2022-12-12T151412.407.jpeg,02-moderate,1,0.6155062317848206
+ResNet50\Car_parts\data3a\validation\01-minor\images - 2022-12-12T151419.502.jpeg,02-moderate,1,0.4926121234893799
+ResNet50\Car_parts\data3a\validation\01-minor\images - 2022-12-13T213954.926.jpeg,01-minor,0,0.8496024012565613
+ResNet50\Car_parts\data3a\validation\01-minor\images - 2022-12-13T213954.983.jpeg,01-minor,0,0.9740369915962219
+ResNet50\Car_parts\data3a\validation\01-minor\images - 2022-12-13T213955.048.jpeg,01-minor,0,0.868668258190155
+ResNet50\Car_parts\data3a\validation\01-minor\images - 2022-12-13T213955.333.jpeg,01-minor,0,0.9917355179786682
+ResNet50\Car_parts\data3a\validation\01-minor\images.jpeg,01-minor,0,0.7135231494903564
+ResNet50\Car_parts\data3a\validation\02-moderate\0001.JPEG,02-moderate,1,0.7128183841705322
+ResNet50\Car_parts\data3a\validation\02-moderate\0002.JPEG,03-severe,2,0.7065252065658569
+ResNet50\Car_parts\data3a\validation\02-moderate\0003.JPEG,02-moderate,1,0.5342804193496704
+ResNet50\Car_parts\data3a\validation\02-moderate\0004.JPEG,02-moderate,1,0.5938683748245239
+ResNet50\Car_parts\data3a\validation\02-moderate\0005.JPEG,01-minor,0,0.629359245300293
+ResNet50\Car_parts\data3a\validation\02-moderate\0006.JPEG,02-moderate,1,0.6637641191482544
+ResNet50\Car_parts\data3a\validation\02-moderate\0007.JPEG,02-moderate,1,0.5327277779579163
+ResNet50\Car_parts\data3a\validation\02-moderate\0008.JPEG,02-moderate,1,0.7345765829086304
+ResNet50\Car_parts\data3a\validation\02-moderate\0009.JPEG,01-minor,0,0.8289507031440735
+ResNet50\Car_parts\data3a\validation\02-moderate\0010.JPEG,01-minor,0,0.688011109828949
+ResNet50\Car_parts\data3a\validation\02-moderate\0011.jpeg,02-moderate,1,0.6443414688110352
+ResNet50\Car_parts\data3a\validation\02-moderate\0012.jpeg,01-minor,0,0.9429676532745361
+ResNet50\Car_parts\data3a\validation\02-moderate\0013.JPEG,02-moderate,1,0.4408177435398102
+ResNet50\Car_parts\data3a\validation\02-moderate\0014.JPEG,02-moderate,1,0.6228392720222473
+ResNet50\Car_parts\data3a\validation\02-moderate\0015.jpeg,02-moderate,1,0.4727570116519928
+ResNet50\Car_parts\data3a\validation\02-moderate\0016.JPEG,02-moderate,1,0.86733478307724
+ResNet50\Car_parts\data3a\validation\02-moderate\0017.JPEG,02-moderate,1,0.9084089398384094
+ResNet50\Car_parts\data3a\validation\02-moderate\0018.JPEG,02-moderate,1,0.8246053457260132
+ResNet50\Car_parts\data3a\validation\02-moderate\0019.JPEG,02-moderate,1,0.583453357219696
+ResNet50\Car_parts\data3a\validation\02-moderate\0020.JPEG,03-severe,2,0.6400188207626343
+ResNet50\Car_parts\data3a\validation\02-moderate\0021.JPEG,02-moderate,1,0.8896980285644531
+ResNet50\Car_parts\data3a\validation\02-moderate\0022.JPEG,02-moderate,1,0.8552764654159546
+ResNet50\Car_parts\data3a\validation\02-moderate\0023.JPEG,02-moderate,1,0.6133021116256714
+ResNet50\Car_parts\data3a\validation\02-moderate\0024.jpeg,02-moderate,1,0.631679117679596
+ResNet50\Car_parts\data3a\validation\02-moderate\0025.JPEG,02-moderate,1,0.7432189583778381
+ResNet50\Car_parts\data3a\validation\02-moderate\0026.JPEG,02-moderate,1,0.5592672824859619
+ResNet50\Car_parts\data3a\validation\02-moderate\0027.JPEG,02-moderate,1,0.917006254196167
+ResNet50\Car_parts\data3a\validation\02-moderate\0028.JPEG,02-moderate,1,0.4533602297306061
+ResNet50\Car_parts\data3a\validation\02-moderate\0029.JPEG,02-moderate,1,0.7852767109870911
+ResNet50\Car_parts\data3a\validation\02-moderate\0030.JPEG,03-severe,2,0.6071730256080627
+ResNet50\Car_parts\data3a\validation\02-moderate\0031.JPEG,03-severe,2,0.7780973315238953
+ResNet50\Car_parts\data3a\validation\02-moderate\0032.JPEG,01-minor,0,0.55014568567276
+ResNet50\Car_parts\data3a\validation\02-moderate\0033.JPEG,02-moderate,1,0.7952184081077576
+ResNet50\Car_parts\data3a\validation\02-moderate\0034.JPEG,02-moderate,1,0.6977120637893677
+ResNet50\Car_parts\data3a\validation\02-moderate\0035.JPEG,02-moderate,1,0.9486307501792908
+ResNet50\Car_parts\data3a\validation\02-moderate\0036.JPEG,02-moderate,1,0.7366551160812378
+ResNet50\Car_parts\data3a\validation\02-moderate\0037.JPEG,02-moderate,1,0.6468751430511475
+ResNet50\Car_parts\data3a\validation\02-moderate\0038.JPEG,01-minor,0,0.6530290842056274
+ResNet50\Car_parts\data3a\validation\02-moderate\0039.JPEG,01-minor,0,0.8450218439102173
+ResNet50\Car_parts\data3a\validation\02-moderate\0040.JPEG,02-moderate,1,0.8720468878746033
+ResNet50\Car_parts\data3a\validation\02-moderate\0041.JPEG,02-moderate,1,0.5388018488883972
+ResNet50\Car_parts\data3a\validation\02-moderate\0042.JPEG,01-minor,0,0.7428536415100098
+ResNet50\Car_parts\data3a\validation\02-moderate\0043.JPEG,01-minor,0,0.5011022090911865
+ResNet50\Car_parts\data3a\validation\02-moderate\0044.JPEG,02-moderate,1,0.5292911529541016
+ResNet50\Car_parts\data3a\validation\02-moderate\0045.JPEG,03-severe,2,0.6245184540748596
+ResNet50\Car_parts\data3a\validation\02-moderate\0046.JPEG,02-moderate,1,0.8119120597839355
+ResNet50\Car_parts\data3a\validation\02-moderate\0047.JPEG,02-moderate,1,0.8961329460144043
+ResNet50\Car_parts\data3a\validation\02-moderate\0048.JPEG,02-moderate,1,0.7710508704185486
+ResNet50\Car_parts\data3a\validation\02-moderate\0049.JPEG,02-moderate,1,0.5599483847618103
+ResNet50\Car_parts\data3a\validation\02-moderate\0050.JPEG,01-minor,0,0.6935104131698608
+ResNet50\Car_parts\data3a\validation\02-moderate\0051.JPEG,02-moderate,1,0.5615150332450867
+ResNet50\Car_parts\data3a\validation\02-moderate\0052.JPEG,01-minor,0,0.5798518061637878
+ResNet50\Car_parts\data3a\validation\02-moderate\0053.JPEG,02-moderate,1,0.8421895503997803
+ResNet50\Car_parts\data3a\validation\02-moderate\0054.JPEG,01-minor,0,0.7299890518188477
+ResNet50\Car_parts\data3a\validation\02-moderate\0055.JPEG,02-moderate,1,0.6275377869606018
+ResNet50\Car_parts\data3a\validation\02-moderate\0e780a7b917f4ed4ba5d5f4dfd9907d4_thb.jpg,01-minor,0,0.5472788214683533
+ResNet50\Car_parts\data3a\validation\02-moderate\495920c32ade4ac6ae7f9788fd7dfd24_thb.jpg,02-moderate,1,0.6577563881874084
+ResNet50\Car_parts\data3a\validation\02-moderate\4d9f21ac40954a348560ce60af2b69f9_thb.jpg,02-moderate,1,0.9526768922805786
+ResNet50\Car_parts\data3a\validation\02-moderate\8a70da31f2cd423cbc07988b0be52115_thb.jpg,02-moderate,1,0.9831222891807556
+ResNet50\Car_parts\data3a\validation\02-moderate\9a620aee6a7f4a4b8d90f1f8181bc880_thb.jpg,02-moderate,1,0.9318151473999023
+ResNet50\Car_parts\data3a\validation\02-moderate\a34374b52d3f4a7baf7767853de3b285_thb.jpg,01-minor,0,0.5926334261894226
+ResNet50\Car_parts\data3a\validation\02-moderate\ad321d3a82934b77aa5a4a9431e43b85_thb.jpg,02-moderate,1,0.8567863702774048
+ResNet50\Car_parts\data3a\validation\02-moderate\da7301dfd988492fb368ad5102fbf708_thb.jpg,02-moderate,1,0.7619933485984802
+ResNet50\Car_parts\data3a\validation\02-moderate\download (18).jpeg,03-severe,2,0.920621395111084
+ResNet50\Car_parts\data3a\validation\02-moderate\download (19).jpeg,02-moderate,1,0.9230273962020874
+ResNet50\Car_parts\data3a\validation\02-moderate\download (20).jpeg,02-moderate,1,0.6488718390464783
+ResNet50\Car_parts\data3a\validation\02-moderate\download (21).jpeg,03-severe,2,0.8031553030014038
+ResNet50\Car_parts\data3a\validation\02-moderate\download (28).jpeg,03-severe,2,0.7255330085754395
+ResNet50\Car_parts\data3a\validation\02-moderate\e060a4b36c4d48caba0b12da354d3585_thb.jpg,02-moderate,1,0.916088342666626
+ResNet50\Car_parts\data3a\validation\02-moderate\fd331abd8e3b4b17ab87268a356b1b5e_thb.jpg,02-moderate,1,0.8904569149017334
+ResNet50\Car_parts\data3a\validation\02-moderate\images (4).jpeg,02-moderate,1,0.9700656533241272
+ResNet50\Car_parts\data3a\validation\02-moderate\images (50).jpeg,03-severe,2,0.6308154463768005
+ResNet50\Car_parts\data3a\validation\02-moderate\images (60).jpeg,02-moderate,1,0.9596065282821655
+ResNet50\Car_parts\data3a\validation\02-moderate\images (63).jpeg,02-moderate,1,0.5891674757003784
+ResNet50\Car_parts\data3a\validation\02-moderate\images (65).jpeg,02-moderate,1,0.923755407333374
+ResNet50\Car_parts\data3a\validation\03-severe\0001.JPEG,03-severe,2,0.7397022247314453
+ResNet50\Car_parts\data3a\validation\03-severe\0002.JPEG,03-severe,2,0.9467895030975342
+ResNet50\Car_parts\data3a\validation\03-severe\0003.JPEG,03-severe,2,0.4817928969860077
+ResNet50\Car_parts\data3a\validation\03-severe\0004.JPEG,02-moderate,1,0.7849004864692688
+ResNet50\Car_parts\data3a\validation\03-severe\0005.JPEG,02-moderate,1,0.6039007902145386
+ResNet50\Car_parts\data3a\validation\03-severe\0006.JPEG,03-severe,2,0.7599941492080688
+ResNet50\Car_parts\data3a\validation\03-severe\0007.JPEG,02-moderate,1,0.5290361046791077
+ResNet50\Car_parts\data3a\validation\03-severe\0008.JPEG,02-moderate,1,0.7368273735046387
+ResNet50\Car_parts\data3a\validation\03-severe\0009.JPEG,03-severe,2,0.8047538995742798
+ResNet50\Car_parts\data3a\validation\03-severe\0010.jpeg,02-moderate,1,0.609682559967041
+ResNet50\Car_parts\data3a\validation\03-severe\0011.JPEG,03-severe,2,0.7522624731063843
+ResNet50\Car_parts\data3a\validation\03-severe\0012.JPEG,03-severe,2,0.8301419019699097
+ResNet50\Car_parts\data3a\validation\03-severe\0013.JPEG,03-severe,2,0.9741564393043518
+ResNet50\Car_parts\data3a\validation\03-severe\0014.JPEG,03-severe,2,0.7462332248687744
+ResNet50\Car_parts\data3a\validation\03-severe\0015.JPEG,03-severe,2,0.7384778261184692
+ResNet50\Car_parts\data3a\validation\03-severe\0016.JPEG,03-severe,2,0.6387662291526794
+ResNet50\Car_parts\data3a\validation\03-severe\0017.JPEG,02-moderate,1,0.9534940719604492
+ResNet50\Car_parts\data3a\validation\03-severe\0018.JPEG,03-severe,2,0.8563210368156433
+ResNet50\Car_parts\data3a\validation\03-severe\0019.JPEG,03-severe,2,0.7328664064407349
+ResNet50\Car_parts\data3a\validation\03-severe\0020.JPEG,03-severe,2,0.7525454163551331
+ResNet50\Car_parts\data3a\validation\03-severe\0021.JPEG,03-severe,2,0.5900749564170837
+ResNet50\Car_parts\data3a\validation\03-severe\0022.JPEG,02-moderate,1,0.7219245433807373
+ResNet50\Car_parts\data3a\validation\03-severe\0023.JPEG,02-moderate,1,0.5021995902061462
+ResNet50\Car_parts\data3a\validation\03-severe\0024.JPEG,03-severe,2,0.902310848236084
+ResNet50\Car_parts\data3a\validation\03-severe\0025.JPEG,03-severe,2,0.7480702996253967
+ResNet50\Car_parts\data3a\validation\03-severe\0026.JPEG,02-moderate,1,0.9710298180580139
+ResNet50\Car_parts\data3a\validation\03-severe\0027.JPEG,03-severe,2,0.9449057579040527
+ResNet50\Car_parts\data3a\validation\03-severe\0028.JPEG,03-severe,2,0.8984209895133972
+ResNet50\Car_parts\data3a\validation\03-severe\0029.JPEG,03-severe,2,0.961169421672821
+ResNet50\Car_parts\data3a\validation\03-severe\0030.JPEG,02-moderate,1,0.5561574101448059
+ResNet50\Car_parts\data3a\validation\03-severe\0031.JPEG,03-severe,2,0.9517285823822021
+ResNet50\Car_parts\data3a\validation\03-severe\0032.JPEG,02-moderate,1,0.7567165493965149
+ResNet50\Car_parts\data3a\validation\03-severe\0033.JPEG,03-severe,2,0.9556239247322083
+ResNet50\Car_parts\data3a\validation\03-severe\0034.JPEG,03-severe,2,0.7938587069511414
+ResNet50\Car_parts\data3a\validation\03-severe\0035.JPEG,03-severe,2,0.8972982168197632
+ResNet50\Car_parts\data3a\validation\03-severe\0036.jpeg,03-severe,2,0.7831029891967773
+ResNet50\Car_parts\data3a\validation\03-severe\0037.jpeg,03-severe,2,0.675247311592102
+ResNet50\Car_parts\data3a\validation\03-severe\0038.JPEG,02-moderate,1,0.8772525191307068
+ResNet50\Car_parts\data3a\validation\03-severe\0039.JPEG,03-severe,2,0.7268999218940735
+ResNet50\Car_parts\data3a\validation\03-severe\0040.JPEG,03-severe,2,0.9169209599494934
+ResNet50\Car_parts\data3a\validation\03-severe\0041.JPEG,03-severe,2,0.9639622569084167
+ResNet50\Car_parts\data3a\validation\03-severe\0042.JPEG,02-moderate,1,0.5633397698402405
+ResNet50\Car_parts\data3a\validation\03-severe\0043.JPEG,02-moderate,1,0.7358987927436829
+ResNet50\Car_parts\data3a\validation\03-severe\0044.JPEG,03-severe,2,0.8892298936843872
+ResNet50\Car_parts\data3a\validation\03-severe\0045.JPEG,02-moderate,1,0.7008078694343567
+ResNet50\Car_parts\data3a\validation\03-severe\0046.JPEG,02-moderate,1,0.842327892780304
+ResNet50\Car_parts\data3a\validation\03-severe\0047.JPEG,02-moderate,1,0.5479809045791626
+ResNet50\Car_parts\data3a\validation\03-severe\0048.jpeg,03-severe,2,0.863609254360199
+ResNet50\Car_parts\data3a\validation\03-severe\0049.JPEG,03-severe,2,0.9584201574325562
+ResNet50\Car_parts\data3a\validation\03-severe\0050.JPEG,02-moderate,1,0.5255943536758423
+ResNet50\Car_parts\data3a\validation\03-severe\0051.JPEG,03-severe,2,0.8469715714454651
+ResNet50\Car_parts\data3a\validation\03-severe\0052.JPEG,02-moderate,1,0.9393455982208252
+ResNet50\Car_parts\data3a\validation\03-severe\0053.JPEG,03-severe,2,0.6877349019050598
+ResNet50\Car_parts\data3a\validation\03-severe\0054.JPEG,03-severe,2,0.8383558392524719
+ResNet50\Car_parts\data3a\validation\03-severe\0055.JPEG,03-severe,2,0.65584397315979
+ResNet50\Car_parts\data3a\validation\03-severe\0056.JPEG,02-moderate,1,0.78741055727005
+ResNet50\Car_parts\data3a\validation\03-severe\0057.JPEG,03-severe,2,0.9095197319984436
+ResNet50\Car_parts\data3a\validation\03-severe\0058.JPEG,02-moderate,1,0.6052597165107727
+ResNet50\Car_parts\data3a\validation\03-severe\0059.JPEG,01-minor,0,0.8286146521568298
+ResNet50\Car_parts\data3a\validation\03-severe\0060.JPEG,03-severe,2,0.7046547532081604
+ResNet50\Car_parts\data3a\validation\03-severe\0061.JPEG,02-moderate,1,0.9104402661323547
+ResNet50\Car_parts\data3a\validation\03-severe\0062.JPEG,02-moderate,1,0.7814881801605225
+ResNet50\Car_parts\data3a\validation\03-severe\0063.JPEG,03-severe,2,0.7044164538383484
+ResNet50\Car_parts\data3a\validation\03-severe\0064.JPEG,02-moderate,1,0.849968671798706
+ResNet50\Car_parts\data3a\validation\03-severe\0065.JPEG,03-severe,2,0.350007027387619
+ResNet50\Car_parts\data3a\validation\03-severe\0066.JPEG,02-moderate,1,0.7427423000335693
+ResNet50\Car_parts\data3a\validation\03-severe\0067.JPEG,03-severe,2,0.5588625073432922
+ResNet50\Car_parts\data3a\validation\03-severe\0068.JPEG,03-severe,2,0.7198072671890259
+ResNet50\Car_parts\data3a\validation\03-severe\18bb5127b4054506bf0b9779b2b1899f_thb.jpg,02-moderate,1,0.687170147895813
+ResNet50\Car_parts\data3a\validation\03-severe\22902b00ea70402fab96a350f87cf944_thb.jpg,02-moderate,1,0.9674633741378784
+ResNet50\Car_parts\data3a\validation\03-severe\46ba5d744b2d4ce9ac2192cbc340cf56_thb.jpg,03-severe,2,0.7061854004859924
+ResNet50\Car_parts\data3a\validation\03-severe\482557ac6c1447b284fe6224b7266f55_thb.jpg,03-severe,2,0.6794984340667725
+ResNet50\Car_parts\data3a\validation\03-severe\6d36ca8f8e5142b999d24142028c8a3a_thb.jpg,02-moderate,1,0.905664324760437
+ResNet50\Car_parts\data3a\validation\03-severe\808a08e850f248c6a3ec2aa5f899a5a0_thb.jpg,03-severe,2,0.8809129595756531
+ResNet50\Car_parts\data3a\validation\03-severe\c3d15ce7351047aaba68bba9a1b862bc_thb.jpg,02-moderate,1,0.625797688961029
+ResNet50\Car_parts\data3a\validation\03-severe\c79ee24df16548469dfdb44f154f9887_thb.jpg,02-moderate,1,0.770493745803833
+ResNet50\Car_parts\data3a\validation\03-severe\debd51e9643448fcbb0f303c9e0d7063_thb.jpg,02-moderate,1,0.5983125567436218
+ResNet50\Car_parts\data3a\validation\03-severe\download (1).jpeg,03-severe,2,0.7407283186912537
+ResNet50\Car_parts\data3a\validation\03-severe\download (17).jpeg,03-severe,2,0.9589512348175049
+ResNet50\Car_parts\data3a\validation\03-severe\download (2).jpeg,03-severe,2,0.8790397644042969
+ResNet50\Car_parts\data3a\validation\03-severe\download (23).jpeg,03-severe,2,0.824760377407074
+ResNet50\Car_parts\data3a\validation\03-severe\download (31).jpeg,03-severe,2,0.8606422543525696
+ResNet50\Car_parts\data3a\validation\03-severe\download (5).jpeg,03-severe,2,0.8302682042121887
+ResNet50\Car_parts\data3a\validation\03-severe\download (6).jpeg,03-severe,2,0.651927649974823
+ResNet50\Car_parts\data3a\validation\03-severe\ff6f1e2cd433470f94e54c7aeb7da545_thb.jpg,02-moderate,1,0.6094918251037598
+ResNet50\Car_parts\data3a\validation\03-severe\images (28).jpeg,02-moderate,1,0.5098012089729309
+ResNet50\Car_parts\data3a\validation\03-severe\images (44).jpeg,03-severe,2,0.5910382866859436
+ResNet50\Car_parts\data3a\validation\03-severe\images (53).jpeg,03-severe,2,0.6103649139404297
+ResNet50\Car_parts\data3a\validation\03-severe\images - 2022-12-12T151413.288.jpeg,03-severe,2,0.754209041595459
+ResNet50\Car_parts\data3a\validation\03-severe\images - 2022-12-12T151418.948.jpeg,02-moderate,1,0.5328282713890076
+ResNet50\Car_parts\data3a\validation\03-severe\images.jpeg,03-severe,2,0.8591820001602173
+ResNet50\Car_parts\data3a\training\01-minor\0001.JPEG,01-minor,0,0.9875968098640442
+ResNet50\Car_parts\data3a\training\01-minor\0002.JPEG,01-minor,0,0.9309305548667908
+ResNet50\Car_parts\data3a\training\01-minor\0003.JPEG,01-minor,0,0.9420991539955139
+ResNet50\Car_parts\data3a\training\01-minor\0004.JPEG,02-moderate,1,0.6612999439239502
+ResNet50\Car_parts\data3a\training\01-minor\0005.JPEG,01-minor,0,0.9479278922080994
+ResNet50\Car_parts\data3a\training\01-minor\0006.JPEG,01-minor,0,0.8711315989494324
+ResNet50\Car_parts\data3a\training\01-minor\0007.JPEG,01-minor,0,0.9105391502380371
+ResNet50\Car_parts\data3a\training\01-minor\0008.JPEG,01-minor,0,0.8766633868217468
+ResNet50\Car_parts\data3a\training\01-minor\0009.JPEG,01-minor,0,0.969353437423706
+ResNet50\Car_parts\data3a\training\01-minor\0010.JPEG,01-minor,0,0.9084623456001282
+ResNet50\Car_parts\data3a\training\01-minor\0011.JPEG,01-minor,0,0.9616179466247559
+ResNet50\Car_parts\data3a\training\01-minor\0012.JPEG,01-minor,0,0.9205227494239807
+ResNet50\Car_parts\data3a\training\01-minor\0013.JPEG,01-minor,0,0.9838877320289612
+ResNet50\Car_parts\data3a\training\01-minor\0014.JPEG,01-minor,0,0.8812876343727112
+ResNet50\Car_parts\data3a\training\01-minor\0015.JPEG,01-minor,0,0.9588603377342224
+ResNet50\Car_parts\data3a\training\01-minor\0016.JPEG,01-minor,0,0.9547686576843262
+ResNet50\Car_parts\data3a\training\01-minor\0017.JPEG,01-minor,0,0.998460054397583
+ResNet50\Car_parts\data3a\training\01-minor\0018.JPEG,01-minor,0,0.9459332823753357
+ResNet50\Car_parts\data3a\training\01-minor\0019.JPEG,01-minor,0,0.942367434501648
+ResNet50\Car_parts\data3a\training\01-minor\0020.JPEG,01-minor,0,0.9612962007522583
+ResNet50\Car_parts\data3a\training\01-minor\0021.JPEG,01-minor,0,0.8825161457061768
+ResNet50\Car_parts\data3a\training\01-minor\0022.JPEG,02-moderate,1,0.575856626033783
+ResNet50\Car_parts\data3a\training\01-minor\0023.JPEG,01-minor,0,0.8589643239974976
+ResNet50\Car_parts\data3a\training\01-minor\0024.JPEG,01-minor,0,0.8250108361244202
+ResNet50\Car_parts\data3a\training\01-minor\0025.JPEG,01-minor,0,0.9138028621673584
+ResNet50\Car_parts\data3a\training\01-minor\0026.JPEG,01-minor,0,0.4714002013206482
+ResNet50\Car_parts\data3a\training\01-minor\0027.JPEG,01-minor,0,0.9522503018379211
+ResNet50\Car_parts\data3a\training\01-minor\0028.JPEG,01-minor,0,0.9341360330581665
+ResNet50\Car_parts\data3a\training\01-minor\0029.JPEG,01-minor,0,0.9876526594161987
+ResNet50\Car_parts\data3a\training\01-minor\0030.JPEG,01-minor,0,0.9879108667373657
+ResNet50\Car_parts\data3a\training\01-minor\0031.JPEG,01-minor,0,0.970122754573822
+ResNet50\Car_parts\data3a\training\01-minor\0032.JPEG,01-minor,0,0.5440056920051575
+ResNet50\Car_parts\data3a\training\01-minor\0033.JPEG,01-minor,0,0.8405590057373047
+ResNet50\Car_parts\data3a\training\01-minor\0034.JPEG,01-minor,0,0.8567577004432678
+ResNet50\Car_parts\data3a\training\01-minor\0035.jpeg,01-minor,0,0.8916907906532288
+ResNet50\Car_parts\data3a\training\01-minor\0036.JPEG,01-minor,0,0.9823474884033203
+ResNet50\Car_parts\data3a\training\01-minor\0037.JPEG,01-minor,0,0.9727938771247864
+ResNet50\Car_parts\data3a\training\01-minor\0038.JPEG,01-minor,0,0.9625935554504395
+ResNet50\Car_parts\data3a\training\01-minor\0039.JPEG,01-minor,0,0.8566676378250122
+ResNet50\Car_parts\data3a\training\01-minor\0040.JPEG,01-minor,0,0.951389729976654
+ResNet50\Car_parts\data3a\training\01-minor\0041.JPEG,01-minor,0,0.9872948527336121
+ResNet50\Car_parts\data3a\training\01-minor\0042.JPEG,01-minor,0,0.9683032035827637
+ResNet50\Car_parts\data3a\training\01-minor\0043.JPEG,01-minor,0,0.7499427795410156
+ResNet50\Car_parts\data3a\training\01-minor\0044.JPEG,01-minor,0,0.9442763924598694
+ResNet50\Car_parts\data3a\training\01-minor\0045.JPEG,01-minor,0,0.7756279706954956
+ResNet50\Car_parts\data3a\training\01-minor\0046.JPEG,01-minor,0,0.7090771794319153
+ResNet50\Car_parts\data3a\training\01-minor\0047.JPEG,01-minor,0,0.9858241081237793
+ResNet50\Car_parts\data3a\training\01-minor\0048.JPEG,01-minor,0,0.9780229926109314
+ResNet50\Car_parts\data3a\training\01-minor\0049.JPEG,01-minor,0,0.9650264382362366
+ResNet50\Car_parts\data3a\training\01-minor\0050.JPEG,01-minor,0,0.9267484545707703
+ResNet50\Car_parts\data3a\training\01-minor\0051.JPEG,01-minor,0,0.9236942529678345
+ResNet50\Car_parts\data3a\training\01-minor\0052.JPEG,01-minor,0,0.7533395290374756
+ResNet50\Car_parts\data3a\training\01-minor\0053.JPEG,01-minor,0,0.9703142046928406
+ResNet50\Car_parts\data3a\training\01-minor\0054.jpeg,01-minor,0,0.9873180985450745
+ResNet50\Car_parts\data3a\training\01-minor\0055.JPEG,01-minor,0,0.8384321928024292
+ResNet50\Car_parts\data3a\training\01-minor\0056.JPEG,01-minor,0,0.8926077485084534
+ResNet50\Car_parts\data3a\training\01-minor\0057.JPEG,01-minor,0,0.8867319822311401
+ResNet50\Car_parts\data3a\training\01-minor\0058.JPEG,01-minor,0,0.8775911927223206
+ResNet50\Car_parts\data3a\training\01-minor\0059.JPEG,01-minor,0,0.9393395185470581
+ResNet50\Car_parts\data3a\training\01-minor\0060.JPEG,01-minor,0,0.8638830780982971
+ResNet50\Car_parts\data3a\training\01-minor\0061.jpeg,01-minor,0,0.9894002079963684
+ResNet50\Car_parts\data3a\training\01-minor\0062.JPEG,01-minor,0,0.6866685152053833
+ResNet50\Car_parts\data3a\training\01-minor\0063.JPEG,01-minor,0,0.9737437963485718
+ResNet50\Car_parts\data3a\training\01-minor\0064.JPEG,01-minor,0,0.982218325138092
+ResNet50\Car_parts\data3a\training\01-minor\0065.JPEG,02-moderate,1,0.5481538772583008
+ResNet50\Car_parts\data3a\training\01-minor\0066.JPEG,01-minor,0,0.7647987008094788
+ResNet50\Car_parts\data3a\training\01-minor\0067.JPEG,01-minor,0,0.711909830570221
+ResNet50\Car_parts\data3a\training\01-minor\0068.JPEG,01-minor,0,0.965394139289856
+ResNet50\Car_parts\data3a\training\01-minor\0069.JPEG,01-minor,0,0.9528782963752747
+ResNet50\Car_parts\data3a\training\01-minor\0070.JPEG,01-minor,0,0.8982694745063782
+ResNet50\Car_parts\data3a\training\01-minor\0071.JPEG,01-minor,0,0.6644406318664551
+ResNet50\Car_parts\data3a\training\01-minor\0072.JPEG,01-minor,0,0.8250083327293396
+ResNet50\Car_parts\data3a\training\01-minor\0073.JPEG,01-minor,0,0.41916221380233765
+ResNet50\Car_parts\data3a\training\01-minor\0074.JPEG,01-minor,0,0.7796061635017395
+ResNet50\Car_parts\data3a\training\01-minor\0075.JPEG,02-moderate,1,0.689700186252594
+ResNet50\Car_parts\data3a\training\01-minor\0076.JPEG,01-minor,0,0.9496707320213318
+ResNet50\Car_parts\data3a\training\01-minor\0077.JPEG,02-moderate,1,0.8331533074378967
+ResNet50\Car_parts\data3a\training\01-minor\0078.JPEG,01-minor,0,0.8464175462722778
+ResNet50\Car_parts\data3a\training\01-minor\0079.JPEG,01-minor,0,0.8434361219406128
+ResNet50\Car_parts\data3a\training\01-minor\0080.JPEG,01-minor,0,0.9327350854873657
+ResNet50\Car_parts\data3a\training\01-minor\0081.JPEG,01-minor,0,0.5189986824989319
+ResNet50\Car_parts\data3a\training\01-minor\0082.JPEG,01-minor,0,0.650791347026825
+ResNet50\Car_parts\data3a\training\01-minor\0083.JPEG,01-minor,0,0.9736582040786743
+ResNet50\Car_parts\data3a\training\01-minor\0084.JPEG,01-minor,0,0.8680119514465332
+ResNet50\Car_parts\data3a\training\01-minor\0085.JPEG,02-moderate,1,0.6698774695396423
+ResNet50\Car_parts\data3a\training\01-minor\0086.JPEG,01-minor,0,0.8708849549293518
+ResNet50\Car_parts\data3a\training\01-minor\0087.JPEG,02-moderate,1,0.48984068632125854
+ResNet50\Car_parts\data3a\training\01-minor\0088.JPEG,01-minor,0,0.9579488039016724
+ResNet50\Car_parts\data3a\training\01-minor\0089.JPEG,01-minor,0,0.9715102314949036
+ResNet50\Car_parts\data3a\training\01-minor\0090.JPEG,01-minor,0,0.9887140393257141
+ResNet50\Car_parts\data3a\training\01-minor\0091.JPEG,01-minor,0,0.7110125422477722
+ResNet50\Car_parts\data3a\training\01-minor\0092.JPEG,01-minor,0,0.9118431806564331
+ResNet50\Car_parts\data3a\training\01-minor\0093.JPEG,01-minor,0,0.7254250049591064
+ResNet50\Car_parts\data3a\training\01-minor\0094.JPEG,01-minor,0,0.738980233669281
+ResNet50\Car_parts\data3a\training\01-minor\0095.JPEG,01-minor,0,0.7679857611656189
+ResNet50\Car_parts\data3a\training\01-minor\0096.JPEG,01-minor,0,0.9239482283592224
+ResNet50\Car_parts\data3a\training\01-minor\0097.JPEG,01-minor,0,0.8418981432914734
+ResNet50\Car_parts\data3a\training\01-minor\0098.JPEG,01-minor,0,0.9665359258651733
+ResNet50\Car_parts\data3a\training\01-minor\0099.JPEG,01-minor,0,0.8618664145469666
+ResNet50\Car_parts\data3a\training\01-minor\0100.JPEG,03-severe,2,0.4988963007926941
+ResNet50\Car_parts\data3a\training\01-minor\0101.JPEG,01-minor,0,0.9638724327087402
+ResNet50\Car_parts\data3a\training\01-minor\0102.JPEG,01-minor,0,0.9187122583389282
+ResNet50\Car_parts\data3a\training\01-minor\0103.JPEG,01-minor,0,0.9388766884803772
+ResNet50\Car_parts\data3a\training\01-minor\0104.JPEG,01-minor,0,0.9105000495910645
+ResNet50\Car_parts\data3a\training\01-minor\0105.JPEG,01-minor,0,0.9695661664009094
+ResNet50\Car_parts\data3a\training\01-minor\0106.JPEG,01-minor,0,0.9370930790901184
+ResNet50\Car_parts\data3a\training\01-minor\0107.JPEG,01-minor,0,0.5275915861129761
+ResNet50\Car_parts\data3a\training\01-minor\0108.JPEG,01-minor,0,0.9352961778640747
+ResNet50\Car_parts\data3a\training\01-minor\0109.JPEG,01-minor,0,0.9547686576843262
+ResNet50\Car_parts\data3a\training\01-minor\0110.JPEG,01-minor,0,0.7100562453269958
+ResNet50\Car_parts\data3a\training\01-minor\0111.JPEG,01-minor,0,0.59860759973526
+ResNet50\Car_parts\data3a\training\01-minor\0112.JPEG,01-minor,0,0.9290124177932739
+ResNet50\Car_parts\data3a\training\01-minor\0113.JPEG,01-minor,0,0.9918254613876343
+ResNet50\Car_parts\data3a\training\01-minor\0114.JPEG,01-minor,0,0.8928250074386597
+ResNet50\Car_parts\data3a\training\01-minor\0115.JPEG,01-minor,0,0.9329752326011658
+ResNet50\Car_parts\data3a\training\01-minor\0116.JPEG,01-minor,0,0.8869636058807373
+ResNet50\Car_parts\data3a\training\01-minor\0117.JPEG,01-minor,0,0.9710661172866821
+ResNet50\Car_parts\data3a\training\01-minor\0118.JPEG,01-minor,0,0.740263044834137
+ResNet50\Car_parts\data3a\training\01-minor\0119.JPEG,01-minor,0,0.768153190612793
+ResNet50\Car_parts\data3a\training\01-minor\0120.JPEG,01-minor,0,0.5771247744560242
+ResNet50\Car_parts\data3a\training\01-minor\0121.JPEG,01-minor,0,0.602533757686615
+ResNet50\Car_parts\data3a\training\01-minor\0122.JPEG,01-minor,0,0.9438141584396362
+ResNet50\Car_parts\data3a\training\01-minor\0123.JPEG,02-moderate,1,0.6148743033409119
+ResNet50\Car_parts\data3a\training\01-minor\0124.JPEG,01-minor,0,0.894306480884552
+ResNet50\Car_parts\data3a\training\01-minor\0125.JPEG,01-minor,0,0.891559898853302
+ResNet50\Car_parts\data3a\training\01-minor\0126.JPEG,01-minor,0,0.8551645278930664
+ResNet50\Car_parts\data3a\training\01-minor\0127.JPEG,01-minor,0,0.9524738788604736
+ResNet50\Car_parts\data3a\training\01-minor\0128.JPEG,01-minor,0,0.8294220566749573
+ResNet50\Car_parts\data3a\training\01-minor\0129.JPEG,01-minor,0,0.9861852526664734
+ResNet50\Car_parts\data3a\training\01-minor\0130.JPEG,01-minor,0,0.7984515428543091
+ResNet50\Car_parts\data3a\training\01-minor\0131.jpeg,01-minor,0,0.9127178192138672
+ResNet50\Car_parts\data3a\training\01-minor\0132.JPEG,01-minor,0,0.7419999241828918
+ResNet50\Car_parts\data3a\training\01-minor\0133.JPEG,01-minor,0,0.9369276165962219
+ResNet50\Car_parts\data3a\training\01-minor\0134.jpeg,01-minor,0,0.84794682264328
+ResNet50\Car_parts\data3a\training\01-minor\0135.JPEG,01-minor,0,0.9245631694793701
+ResNet50\Car_parts\data3a\training\01-minor\0136.JPEG,01-minor,0,0.5997987389564514
+ResNet50\Car_parts\data3a\training\01-minor\0137.JPEG,01-minor,0,0.794918954372406
+ResNet50\Car_parts\data3a\training\01-minor\0138.JPEG,01-minor,0,0.7858995199203491
+ResNet50\Car_parts\data3a\training\01-minor\0139.JPEG,01-minor,0,0.5939685106277466
+ResNet50\Car_parts\data3a\training\01-minor\0140.JPEG,01-minor,0,0.9718024134635925
+ResNet50\Car_parts\data3a\training\01-minor\0141.JPEG,01-minor,0,0.9573187232017517
+ResNet50\Car_parts\data3a\training\01-minor\0142.JPEG,01-minor,0,0.7940280437469482
+ResNet50\Car_parts\data3a\training\01-minor\0143.JPEG,01-minor,0,0.679060697555542
+ResNet50\Car_parts\data3a\training\01-minor\0144.JPEG,01-minor,0,0.6148414611816406
+ResNet50\Car_parts\data3a\training\01-minor\0145.JPEG,01-minor,0,0.8209832906723022
+ResNet50\Car_parts\data3a\training\01-minor\0146.JPEG,01-minor,0,0.6414425373077393
+ResNet50\Car_parts\data3a\training\01-minor\0147.JPEG,01-minor,0,0.5520617961883545
+ResNet50\Car_parts\data3a\training\01-minor\0148.JPEG,01-minor,0,0.857681930065155
+ResNet50\Car_parts\data3a\training\01-minor\0149.JPEG,01-minor,0,0.9082368612289429
+ResNet50\Car_parts\data3a\training\01-minor\0150.JPEG,01-minor,0,0.7517472505569458
+ResNet50\Car_parts\data3a\training\01-minor\0151.JPEG,01-minor,0,0.9466704726219177
+ResNet50\Car_parts\data3a\training\01-minor\0152.JPEG,01-minor,0,0.9455001950263977
+ResNet50\Car_parts\data3a\training\01-minor\0153.JPEG,01-minor,0,0.7674412131309509
+ResNet50\Car_parts\data3a\training\01-minor\0154.JPEG,01-minor,0,0.9233675599098206
+ResNet50\Car_parts\data3a\training\01-minor\0155.JPEG,01-minor,0,0.9790935516357422
+ResNet50\Car_parts\data3a\training\01-minor\0156.JPEG,01-minor,0,0.8497872948646545
+ResNet50\Car_parts\data3a\training\01-minor\0157.JPEG,01-minor,0,0.8206853866577148
+ResNet50\Car_parts\data3a\training\01-minor\0158.JPEG,01-minor,0,0.8780566453933716
+ResNet50\Car_parts\data3a\training\01-minor\0159.JPEG,02-moderate,1,0.6061276793479919
+ResNet50\Car_parts\data3a\training\01-minor\0160.JPEG,01-minor,0,0.4448704123497009
+ResNet50\Car_parts\data3a\training\01-minor\0161.JPEG,01-minor,0,0.5092707872390747
+ResNet50\Car_parts\data3a\training\01-minor\0162.JPEG,01-minor,0,0.9411780834197998
+ResNet50\Car_parts\data3a\training\01-minor\0163.JPEG,02-moderate,1,0.5460735559463501
+ResNet50\Car_parts\data3a\training\01-minor\0164.JPEG,01-minor,0,0.9035863876342773
+ResNet50\Car_parts\data3a\training\01-minor\0165.JPEG,01-minor,0,0.6151455044746399
+ResNet50\Car_parts\data3a\training\01-minor\0166.JPEG,01-minor,0,0.6565733551979065
+ResNet50\Car_parts\data3a\training\01-minor\0167.JPEG,01-minor,0,0.637894868850708
+ResNet50\Car_parts\data3a\training\01-minor\0168.JPEG,01-minor,0,0.5340562462806702
+ResNet50\Car_parts\data3a\training\01-minor\0169.JPEG,01-minor,0,0.923579752445221
+ResNet50\Car_parts\data3a\training\01-minor\0170.JPEG,01-minor,0,0.728283166885376
+ResNet50\Car_parts\data3a\training\01-minor\0171.JPEG,01-minor,0,0.9763517379760742
+ResNet50\Car_parts\data3a\training\01-minor\0172.JPEG,01-minor,0,0.989331841468811
+ResNet50\Car_parts\data3a\training\01-minor\0173.JPEG,01-minor,0,0.884904682636261
+ResNet50\Car_parts\data3a\training\01-minor\0174.JPEG,01-minor,0,0.6945005059242249
+ResNet50\Car_parts\data3a\training\01-minor\0175.JPEG,01-minor,0,0.9229303598403931
+ResNet50\Car_parts\data3a\training\01-minor\0176.JPEG,01-minor,0,0.8124400973320007
+ResNet50\Car_parts\data3a\training\01-minor\0177.JPEG,01-minor,0,0.9853211045265198
+ResNet50\Car_parts\data3a\training\01-minor\0178.JPEG,01-minor,0,0.8185296654701233
+ResNet50\Car_parts\data3a\training\01-minor\0179.JPEG,02-moderate,1,0.9521097540855408
+ResNet50\Car_parts\data3a\training\01-minor\0180.JPEG,01-minor,0,0.9150416851043701
+ResNet50\Car_parts\data3a\training\01-minor\0181.JPEG,01-minor,0,0.9116876125335693
+ResNet50\Car_parts\data3a\training\01-minor\0182.JPEG,01-minor,0,0.779696524143219
+ResNet50\Car_parts\data3a\training\01-minor\0183.JPEG,01-minor,0,0.96538245677948
+ResNet50\Car_parts\data3a\training\01-minor\0184.JPEG,02-moderate,1,0.5855053067207336
+ResNet50\Car_parts\data3a\training\01-minor\0185.JPEG,01-minor,0,0.9821773767471313
+ResNet50\Car_parts\data3a\training\01-minor\0186.JPEG,01-minor,0,0.5688017010688782
+ResNet50\Car_parts\data3a\training\01-minor\0187.JPEG,01-minor,0,0.9548352956771851
+ResNet50\Car_parts\data3a\training\01-minor\0188.JPEG,01-minor,0,0.9249076247215271
+ResNet50\Car_parts\data3a\training\01-minor\0189.JPEG,01-minor,0,0.8702753186225891
+ResNet50\Car_parts\data3a\training\01-minor\0190.JPEG,01-minor,0,0.8812876343727112
+ResNet50\Car_parts\data3a\training\01-minor\0191.JPEG,01-minor,0,0.9224650859832764
+ResNet50\Car_parts\data3a\training\01-minor\0192.JPEG,01-minor,0,0.9470522403717041
+ResNet50\Car_parts\data3a\training\01-minor\0193.JPEG,01-minor,0,0.7945318222045898
+ResNet50\Car_parts\data3a\training\01-minor\0194.JPEG,01-minor,0,0.8762634992599487
+ResNet50\Car_parts\data3a\training\01-minor\0195.JPEG,01-minor,0,0.6735344529151917
+ResNet50\Car_parts\data3a\training\01-minor\0196.JPEG,01-minor,0,0.5723353624343872
+ResNet50\Car_parts\data3a\training\01-minor\0197.JPEG,01-minor,0,0.9410474300384521
+ResNet50\Car_parts\data3a\training\01-minor\0198.JPEG,01-minor,0,0.9866452813148499
+ResNet50\Car_parts\data3a\training\01-minor\0199.JPEG,01-minor,0,0.9471050500869751
+ResNet50\Car_parts\data3a\training\01-minor\0200.JPEG,01-minor,0,0.8731245398521423
+ResNet50\Car_parts\data3a\training\01-minor\0201.JPEG,01-minor,0,0.45407819747924805
+ResNet50\Car_parts\data3a\training\01-minor\0202.JPEG,01-minor,0,0.7895219326019287
+ResNet50\Car_parts\data3a\training\01-minor\0203.JPEG,01-minor,0,0.9454715251922607
+ResNet50\Car_parts\data3a\training\01-minor\0204.JPEG,01-minor,0,0.898104727268219
+ResNet50\Car_parts\data3a\training\01-minor\0205.JPEG,01-minor,0,0.4849972724914551
+ResNet50\Car_parts\data3a\training\01-minor\0206.JPEG,01-minor,0,0.9790368676185608
+ResNet50\Car_parts\data3a\training\01-minor\0207.JPEG,01-minor,0,0.9561643004417419
+ResNet50\Car_parts\data3a\training\01-minor\0208.JPEG,01-minor,0,0.8292421102523804
+ResNet50\Car_parts\data3a\training\01-minor\0209.JPEG,01-minor,0,0.8495240211486816
+ResNet50\Car_parts\data3a\training\01-minor\0210.JPEG,02-moderate,1,0.5561997890472412
+ResNet50\Car_parts\data3a\training\01-minor\0211.jpeg,01-minor,0,0.9479278922080994
+ResNet50\Car_parts\data3a\training\01-minor\0212.JPEG,01-minor,0,0.8130348324775696
+ResNet50\Car_parts\data3a\training\01-minor\0213.jpeg,01-minor,0,0.9137840270996094
+ResNet50\Car_parts\data3a\training\01-minor\0214.JPEG,02-moderate,1,0.35520294308662415
+ResNet50\Car_parts\data3a\training\01-minor\0215.jpeg,01-minor,0,0.9819796085357666
+ResNet50\Car_parts\data3a\training\01-minor\0216.JPEG,01-minor,0,0.9026542901992798
+ResNet50\Car_parts\data3a\training\01-minor\0217.JPEG,01-minor,0,0.7422592639923096
+ResNet50\Car_parts\data3a\training\01-minor\0218.JPEG,01-minor,0,0.6587414145469666
+ResNet50\Car_parts\data3a\training\01-minor\0219.JPEG,01-minor,0,0.6003173589706421
+ResNet50\Car_parts\data3a\training\01-minor\0220.JPEG,01-minor,0,0.9512125849723816
+ResNet50\Car_parts\data3a\training\01-minor\0221.JPEG,01-minor,0,0.9352961778640747
+ResNet50\Car_parts\data3a\training\01-minor\0222.JPEG,01-minor,0,0.949551522731781
+ResNet50\Car_parts\data3a\training\01-minor\0223.JPEG,01-minor,0,0.9507430791854858
+ResNet50\Car_parts\data3a\training\01-minor\0224.JPEG,01-minor,0,0.9550771713256836
+ResNet50\Car_parts\data3a\training\01-minor\0225.JPEG,01-minor,0,0.8657354116439819
+ResNet50\Car_parts\data3a\training\01-minor\0226.JPEG,01-minor,0,0.9080296754837036
+ResNet50\Car_parts\data3a\training\01-minor\0227.JPEG,01-minor,0,0.9630115628242493
+ResNet50\Car_parts\data3a\training\01-minor\0228.JPEG,01-minor,0,0.7820897102355957
+ResNet50\Car_parts\data3a\training\01-minor\0229.JPEG,01-minor,0,0.6454739570617676
+ResNet50\Car_parts\data3a\training\01-minor\0230.JPEG,01-minor,0,0.9569494128227234
+ResNet50\Car_parts\data3a\training\01-minor\0231.JPEG,01-minor,0,0.9186993837356567
+ResNet50\Car_parts\data3a\training\01-minor\0232.JPEG,01-minor,0,0.9328514337539673
+ResNet50\Car_parts\data3a\training\01-minor\0233.JPEG,01-minor,0,0.8095964789390564
+ResNet50\Car_parts\data3a\training\01-minor\0234.JPEG,01-minor,0,0.5264294147491455
+ResNet50\Car_parts\data3a\training\01-minor\0235.JPEG,01-minor,0,0.7294592261314392
+ResNet50\Car_parts\data3a\training\01-minor\0236.JPEG,01-minor,0,0.5896996259689331
+ResNet50\Car_parts\data3a\training\01-minor\0237.JPEG,01-minor,0,0.9780229926109314
+ResNet50\Car_parts\data3a\training\01-minor\0238.JPEG,01-minor,0,0.9754449129104614
+ResNet50\Car_parts\data3a\training\01-minor\0239.JPEG,01-minor,0,0.6094316244125366
+ResNet50\Car_parts\data3a\training\01-minor\0240.JPEG,01-minor,0,0.9458637237548828
+ResNet50\Car_parts\data3a\training\01-minor\0241.JPEG,01-minor,0,0.5476267337799072
+ResNet50\Car_parts\data3a\training\01-minor\0242.JPEG,01-minor,0,0.8628228306770325
+ResNet50\Car_parts\data3a\training\01-minor\0243.JPEG,01-minor,0,0.8873763084411621
+ResNet50\Car_parts\data3a\training\01-minor\0244.JPEG,01-minor,0,0.6957944631576538
+ResNet50\Car_parts\data3a\training\01-minor\0245.jpeg,01-minor,0,0.9543055295944214
+ResNet50\Car_parts\data3a\training\01-minor\0246.JPEG,01-minor,0,0.9024759531021118
+ResNet50\Car_parts\data3a\training\01-minor\0247.JPEG,01-minor,0,0.9591025114059448
+ResNet50\Car_parts\data3a\training\01-minor\0248.JPEG,01-minor,0,0.975952684879303
+ResNet50\Car_parts\data3a\training\01-minor\0249.JPEG,01-minor,0,0.8622309565544128
+ResNet50\Car_parts\data3a\training\01-minor\0250.JPEG,01-minor,0,0.5517026782035828
+ResNet50\Car_parts\data3a\training\01-minor\0251.JPEG,01-minor,0,0.966621458530426
+ResNet50\Car_parts\data3a\training\01-minor\0252.JPEG,01-minor,0,0.7166686654090881
+ResNet50\Car_parts\data3a\training\01-minor\0253.jpeg,01-minor,0,0.9840885400772095
+ResNet50\Car_parts\data3a\training\01-minor\0254.JPEG,01-minor,0,0.8890443444252014
+ResNet50\Car_parts\data3a\training\01-minor\0255.JPEG,03-severe,2,0.3621947169303894
+ResNet50\Car_parts\data3a\training\01-minor\0256.JPEG,01-minor,0,0.9306159019470215
+ResNet50\Car_parts\data3a\training\01-minor\0257.JPEG,01-minor,0,0.9140270948410034
+ResNet50\Car_parts\data3a\training\01-minor\0258.JPEG,01-minor,0,0.9107601046562195
+ResNet50\Car_parts\data3a\training\01-minor\0259.JPEG,01-minor,0,0.9013906121253967
+ResNet50\Car_parts\data3a\training\01-minor\0260.JPEG,01-minor,0,0.8288446068763733
+ResNet50\Car_parts\data3a\training\01-minor\0261.JPEG,01-minor,0,0.970340371131897
+ResNet50\Car_parts\data3a\training\01-minor\0262.JPEG,01-minor,0,0.9565712809562683
+ResNet50\Car_parts\data3a\training\01-minor\0263.JPEG,01-minor,0,0.7502057552337646
+ResNet50\Car_parts\data3a\training\01-minor\0264.JPEG,01-minor,0,0.8783408403396606
+ResNet50\Car_parts\data3a\training\01-minor\0265.JPEG,01-minor,0,0.8422216176986694
+ResNet50\Car_parts\data3a\training\01-minor\0266.JPEG,01-minor,0,0.9171573519706726
+ResNet50\Car_parts\data3a\training\01-minor\0267.JPEG,01-minor,0,0.8749906420707703
+ResNet50\Car_parts\data3a\training\01-minor\0268.JPEG,01-minor,0,0.8154659271240234
+ResNet50\Car_parts\data3a\training\01-minor\0269.JPEG,01-minor,0,0.9503872990608215
+ResNet50\Car_parts\data3a\training\01-minor\0270.jpeg,01-minor,0,0.9058455228805542
+ResNet50\Car_parts\data3a\training\01-minor\0271.JPEG,01-minor,0,0.9637178778648376
+ResNet50\Car_parts\data3a\training\01-minor\0272.JPEG,01-minor,0,0.9546327590942383
+ResNet50\Car_parts\data3a\training\01-minor\0273.JPEG,01-minor,0,0.938083827495575
+ResNet50\Car_parts\data3a\training\01-minor\0274.JPEG,01-minor,0,0.9659607410430908
+ResNet50\Car_parts\data3a\training\01-minor\0275.JPEG,01-minor,0,0.921360433101654
+ResNet50\Car_parts\data3a\training\01-minor\0276.JPEG,01-minor,0,0.9385687112808228
+ResNet50\Car_parts\data3a\training\01-minor\0277.JPEG,01-minor,0,0.9052603840827942
+ResNet50\Car_parts\data3a\training\01-minor\0278.jpeg,01-minor,0,0.9021809101104736
+ResNet50\Car_parts\data3a\training\01-minor\0d8d5b6bf50a4e7f9b63d83f3a254b55_thb.jpg,01-minor,0,0.8102543354034424
+ResNet50\Car_parts\data3a\training\01-minor\1b449d39f45b45e5b4250f3c54ff9e95_thb.jpg,01-minor,0,0.6956759691238403
+ResNet50\Car_parts\data3a\training\01-minor\24ea719faf0f4117888c83c58fa94762_thb.jpg,01-minor,0,0.81590735912323
+ResNet50\Car_parts\data3a\training\01-minor\2fd5a7d45a7d4bce8c15f2f6c89a0494_thb.jpg,01-minor,0,0.5396642684936523
+ResNet50\Car_parts\data3a\training\01-minor\4875af79812244aca89fcef6e9d0dd9e_thb.jpg,02-moderate,1,0.5877799391746521
+ResNet50\Car_parts\data3a\training\01-minor\528a4004455e447c9014fddc82cf6a9c_thb.jpg,01-minor,0,0.9135910868644714
+ResNet50\Car_parts\data3a\training\01-minor\53d79ee77e3e4a1ba50a0a5bcd06e2ae_thb.jpg,01-minor,0,0.6384187340736389
+ResNet50\Car_parts\data3a\training\01-minor\6f6b78efc99646d4bac55c206c25c62f_thb.jpg,01-minor,0,0.5952723622322083
+ResNet50\Car_parts\data3a\training\01-minor\93a450440c804961b2d6960af17bf605_thb.jpg,01-minor,0,0.5871534943580627
+ResNet50\Car_parts\data3a\training\01-minor\980e7f8c0c61405ca31db96964a1f273_thb.jpg,01-minor,0,0.9645249843597412
+ResNet50\Car_parts\data3a\training\01-minor\9b1b6c577d0947ada4a1b792a583f1aa_thb.jpg,02-moderate,1,0.5532845258712769
+ResNet50\Car_parts\data3a\training\01-minor\9b8bc805f7bf4c7ba7ecd1224a99b0c6_thb.jpg,01-minor,0,0.8035202026367188
+ResNet50\Car_parts\data3a\training\01-minor\a3c01267e2674f488911328012ccb039_thb.jpg,01-minor,0,0.9571611285209656
+ResNet50\Car_parts\data3a\training\01-minor\a5dbc724-654f-4886-a744-2dd91f81b697.jpeg,02-moderate,1,0.5141131281852722
+ResNet50\Car_parts\data3a\training\01-minor\a64194eb0f4042698385780d79172bb2_thb.jpg,01-minor,0,0.8366968631744385
+ResNet50\Car_parts\data3a\training\01-minor\a888f89ee9f04541a06096e7424f08fb_thb.jpg,01-minor,0,0.8586902618408203
+ResNet50\Car_parts\data3a\training\01-minor\b3a8a0c19cfe4546afef689e11de2116_thb.jpg,01-minor,0,0.942467451095581
+ResNet50\Car_parts\data3a\training\01-minor\d3ab4d0329d34c95bf09369aac45b599_thb.jpg,02-moderate,1,0.8389984965324402
+ResNet50\Car_parts\data3a\training\01-minor\d7b5bbc55c644166809a7230b098c301_thb.jpg,02-moderate,1,0.7771888375282288
+ResNet50\Car_parts\data3a\training\01-minor\download (1).jpeg,01-minor,0,0.7253923416137695
+ResNet50\Car_parts\data3a\training\01-minor\download (10).jpeg,01-minor,0,0.9556593894958496
+ResNet50\Car_parts\data3a\training\01-minor\download (11).jpeg,01-minor,0,0.8035682439804077
+ResNet50\Car_parts\data3a\training\01-minor\download (12).jpeg,01-minor,0,0.9675711989402771
+ResNet50\Car_parts\data3a\training\01-minor\download (13).jpeg,01-minor,0,0.9284339547157288
+ResNet50\Car_parts\data3a\training\01-minor\download (14).jpeg,01-minor,0,0.9012871980667114
+ResNet50\Car_parts\data3a\training\01-minor\download (15).jpeg,01-minor,0,0.8905455470085144
+ResNet50\Car_parts\data3a\training\01-minor\download (16).jpeg,01-minor,0,0.9555806517601013
+ResNet50\Car_parts\data3a\training\01-minor\download (17).jpeg,01-minor,0,0.9460200667381287
+ResNet50\Car_parts\data3a\training\01-minor\download (18).jpeg,02-moderate,1,0.5599513053894043
+ResNet50\Car_parts\data3a\training\01-minor\download (19).jpeg,01-minor,0,0.6776876449584961
+ResNet50\Car_parts\data3a\training\01-minor\download (2).jpeg,01-minor,0,0.9396951794624329
+ResNet50\Car_parts\data3a\training\01-minor\download (20).jpeg,01-minor,0,0.5153800845146179
+ResNet50\Car_parts\data3a\training\01-minor\download (21).jpeg,01-minor,0,0.9554527997970581
+ResNet50\Car_parts\data3a\training\01-minor\download (22).jpeg,01-minor,0,0.8931246399879456
+ResNet50\Car_parts\data3a\training\01-minor\download (23).jpeg,01-minor,0,0.9274976849555969
+ResNet50\Car_parts\data3a\training\01-minor\download (24).jpeg,02-moderate,1,0.4569999575614929
+ResNet50\Car_parts\data3a\training\01-minor\download (25).jpeg,01-minor,0,0.8903114795684814
+ResNet50\Car_parts\data3a\training\01-minor\download (26).jpeg,01-minor,0,0.7755569219589233
+ResNet50\Car_parts\data3a\training\01-minor\download (27).jpeg,02-moderate,1,0.7912614345550537
+ResNet50\Car_parts\data3a\training\01-minor\download (28).jpeg,01-minor,0,0.9374476671218872
+ResNet50\Car_parts\data3a\training\01-minor\download (29).jpeg,01-minor,0,0.9669956564903259
+ResNet50\Car_parts\data3a\training\01-minor\download (3).jpeg,01-minor,0,0.9509221315383911
+ResNet50\Car_parts\data3a\training\01-minor\download (30).jpeg,01-minor,0,0.8858628273010254
+ResNet50\Car_parts\data3a\training\01-minor\download (31).jpeg,01-minor,0,0.9273858070373535
+ResNet50\Car_parts\data3a\training\01-minor\download (32).jpeg,01-minor,0,0.8946637511253357
+ResNet50\Car_parts\data3a\training\01-minor\download (33).jpeg,01-minor,0,0.836108386516571
+ResNet50\Car_parts\data3a\training\01-minor\download (34).jpeg,01-minor,0,0.885140061378479
+ResNet50\Car_parts\data3a\training\01-minor\download (35).jpeg,01-minor,0,0.9648947715759277
+ResNet50\Car_parts\data3a\training\01-minor\download (36).jpeg,01-minor,0,0.8426682949066162
+ResNet50\Car_parts\data3a\training\01-minor\download (37).jpeg,01-minor,0,0.9298568964004517
+ResNet50\Car_parts\data3a\training\01-minor\download (38).jpeg,01-minor,0,0.4678332805633545
+ResNet50\Car_parts\data3a\training\01-minor\download (4).jpeg,01-minor,0,0.8700519800186157
+ResNet50\Car_parts\data3a\training\01-minor\download (5).jpeg,01-minor,0,0.9118427038192749
+ResNet50\Car_parts\data3a\training\01-minor\download (6).jpeg,01-minor,0,0.8270429372787476
+ResNet50\Car_parts\data3a\training\01-minor\download (7).jpeg,01-minor,0,0.956108808517456
+ResNet50\Car_parts\data3a\training\01-minor\download (8).jpeg,01-minor,0,0.862369954586029
+ResNet50\Car_parts\data3a\training\01-minor\download (9).jpeg,02-moderate,1,0.6272954344749451
+ResNet50\Car_parts\data3a\training\01-minor\download.jpeg,01-minor,0,0.973736584186554
+ResNet50\Car_parts\data3a\training\01-minor\e6fc41f1d1c84530b623c6cb180b2afb_thb.jpg,02-moderate,1,0.5346003770828247
+ResNet50\Car_parts\data3a\training\01-minor\ef2b325bcc164d6a8e834a57448b9343_thb.jpg,01-minor,0,0.917439877986908
+ResNet50\Car_parts\data3a\training\01-minor\f1db84b589e54f898958c912112934c7_thb.jpg,01-minor,0,0.9528763890266418
+ResNet50\Car_parts\data3a\training\01-minor\fcce1fb1731b4c2e9db32075d48a4200_thb.jpg,01-minor,0,0.9265271425247192
+ResNet50\Car_parts\data3a\training\01-minor\images (1).jpeg,01-minor,0,0.6551269888877869
+ResNet50\Car_parts\data3a\training\01-minor\images (10).jpeg,01-minor,0,0.888102650642395
+ResNet50\Car_parts\data3a\training\01-minor\images (11).jpeg,01-minor,0,0.9811076521873474
+ResNet50\Car_parts\data3a\training\01-minor\images (12).jpeg,01-minor,0,0.7042990922927856
+ResNet50\Car_parts\data3a\training\01-minor\images (13).jpeg,01-minor,0,0.9536707401275635
+ResNet50\Car_parts\data3a\training\01-minor\images (14).jpeg,01-minor,0,0.9707047343254089
+ResNet50\Car_parts\data3a\training\01-minor\images (15).jpeg,01-minor,0,0.9663504362106323
+ResNet50\Car_parts\data3a\training\01-minor\images (16).jpeg,01-minor,0,0.8832987546920776
+ResNet50\Car_parts\data3a\training\01-minor\images (17).jpeg,01-minor,0,0.7728413939476013
+ResNet50\Car_parts\data3a\training\01-minor\images (18).jpeg,01-minor,0,0.8634845018386841
+ResNet50\Car_parts\data3a\training\01-minor\images (19).jpeg,01-minor,0,0.8734159469604492
+ResNet50\Car_parts\data3a\training\01-minor\images (2).jpeg,02-moderate,1,0.8217203617095947
+ResNet50\Car_parts\data3a\training\01-minor\images (20).jpeg,01-minor,0,0.9180446267127991
+ResNet50\Car_parts\data3a\training\01-minor\images (21).jpeg,01-minor,0,0.9343104362487793
+ResNet50\Car_parts\data3a\training\01-minor\images (22).jpeg,01-minor,0,0.958518922328949
+ResNet50\Car_parts\data3a\training\01-minor\images (23).jpeg,01-minor,0,0.9134041666984558
+ResNet50\Car_parts\data3a\training\01-minor\images (24).jpeg,01-minor,0,0.8844818472862244
+ResNet50\Car_parts\data3a\training\01-minor\images (25).jpeg,01-minor,0,0.9624490737915039
+ResNet50\Car_parts\data3a\training\01-minor\images (26).jpeg,01-minor,0,0.9622940421104431
+ResNet50\Car_parts\data3a\training\01-minor\images (27).jpeg,01-minor,0,0.96431565284729
+ResNet50\Car_parts\data3a\training\01-minor\images (28).jpeg,01-minor,0,0.5773483514785767
+ResNet50\Car_parts\data3a\training\01-minor\images (29).jpeg,01-minor,0,0.7437278628349304
+ResNet50\Car_parts\data3a\training\01-minor\images (3).jpeg,01-minor,0,0.919437050819397
+ResNet50\Car_parts\data3a\training\01-minor\images (30).jpeg,01-minor,0,0.9001685976982117
+ResNet50\Car_parts\data3a\training\01-minor\images (31).jpeg,01-minor,0,0.9725659489631653
+ResNet50\Car_parts\data3a\training\01-minor\images (32).jpeg,01-minor,0,0.8444814085960388
+ResNet50\Car_parts\data3a\training\01-minor\images (33).jpeg,01-minor,0,0.8604893684387207
+ResNet50\Car_parts\data3a\training\01-minor\images (34).jpeg,01-minor,0,0.6672224402427673
+ResNet50\Car_parts\data3a\training\01-minor\images (35).jpeg,01-minor,0,0.7760353088378906
+ResNet50\Car_parts\data3a\training\01-minor\images (36).jpeg,01-minor,0,0.9208969473838806
+ResNet50\Car_parts\data3a\training\01-minor\images (37).jpeg,01-minor,0,0.5955005884170532
+ResNet50\Car_parts\data3a\training\01-minor\images (38).jpeg,01-minor,0,0.9232246279716492
+ResNet50\Car_parts\data3a\training\01-minor\images (39).jpeg,01-minor,0,0.984257161617279
+ResNet50\Car_parts\data3a\training\01-minor\images (4).jpeg,01-minor,0,0.9193902611732483
+ResNet50\Car_parts\data3a\training\01-minor\images (40).jpeg,01-minor,0,0.7990121245384216
+ResNet50\Car_parts\data3a\training\01-minor\images (41).jpeg,01-minor,0,0.9296578764915466
+ResNet50\Car_parts\data3a\training\01-minor\images (42).jpeg,01-minor,0,0.8420541882514954
+ResNet50\Car_parts\data3a\training\01-minor\images (43).jpeg,01-minor,0,0.9836764931678772
+ResNet50\Car_parts\data3a\training\01-minor\images (44).jpeg,01-minor,0,0.9169401526451111
+ResNet50\Car_parts\data3a\training\01-minor\images (45).jpeg,01-minor,0,0.9832814335823059
+ResNet50\Car_parts\data3a\training\01-minor\images (46).jpeg,01-minor,0,0.5836094617843628
+ResNet50\Car_parts\data3a\training\01-minor\images (47).jpeg,01-minor,0,0.7906344532966614
+ResNet50\Car_parts\data3a\training\01-minor\images (48).jpeg,01-minor,0,0.5931397080421448
+ResNet50\Car_parts\data3a\training\01-minor\images (49).jpeg,01-minor,0,0.6717376708984375
+ResNet50\Car_parts\data3a\training\01-minor\images (5).jpeg,01-minor,0,0.8586874008178711
+ResNet50\Car_parts\data3a\training\01-minor\images (50).jpeg,01-minor,0,0.7953603267669678
+ResNet50\Car_parts\data3a\training\01-minor\images (51).jpeg,01-minor,0,0.8539304733276367
+ResNet50\Car_parts\data3a\training\01-minor\images (52).jpeg,01-minor,0,0.8791738152503967
+ResNet50\Car_parts\data3a\training\01-minor\images (53).jpeg,01-minor,0,0.9598260521888733
+ResNet50\Car_parts\data3a\training\01-minor\images (54).jpeg,01-minor,0,0.8909739851951599
+ResNet50\Car_parts\data3a\training\01-minor\images (55).jpeg,01-minor,0,0.9738883972167969
+ResNet50\Car_parts\data3a\training\01-minor\images (56).jpeg,01-minor,0,0.9055904150009155
+ResNet50\Car_parts\data3a\training\01-minor\images (57).jpeg,01-minor,0,0.896456778049469
+ResNet50\Car_parts\data3a\training\01-minor\images (58).jpeg,01-minor,0,0.8579708933830261
+ResNet50\Car_parts\data3a\training\01-minor\images (59).jpeg,01-minor,0,0.9487975835800171
+ResNet50\Car_parts\data3a\training\01-minor\images (6).jpeg,01-minor,0,0.9706713557243347
+ResNet50\Car_parts\data3a\training\01-minor\images (60).jpeg,01-minor,0,0.7108895182609558
+ResNet50\Car_parts\data3a\training\01-minor\images (61).jpeg,01-minor,0,0.9168018698692322
+ResNet50\Car_parts\data3a\training\01-minor\images (62).jpeg,01-minor,0,0.6793127059936523
+ResNet50\Car_parts\data3a\training\01-minor\images (63).jpeg,01-minor,0,0.9146081805229187
+ResNet50\Car_parts\data3a\training\01-minor\images (64).jpeg,01-minor,0,0.9754501581192017
+ResNet50\Car_parts\data3a\training\01-minor\images (65).jpeg,01-minor,0,0.9379478693008423
+ResNet50\Car_parts\data3a\training\01-minor\images (66).jpeg,02-moderate,1,0.4608507454395294
+ResNet50\Car_parts\data3a\training\01-minor\images (7).jpeg,01-minor,0,0.8562347292900085
+ResNet50\Car_parts\data3a\training\01-minor\images (70).jpeg,01-minor,0,0.9029431343078613
+ResNet50\Car_parts\data3a\training\01-minor\images (71).jpeg,01-minor,0,0.5487650036811829
+ResNet50\Car_parts\data3a\training\01-minor\images (72).jpeg,01-minor,0,0.9840811491012573
+ResNet50\Car_parts\data3a\training\01-minor\images (73).jpeg,01-minor,0,0.8479535579681396
+ResNet50\Car_parts\data3a\training\01-minor\images (74).jpeg,01-minor,0,0.8719147443771362
+ResNet50\Car_parts\data3a\training\01-minor\images (75).jpeg,01-minor,0,0.930007815361023
+ResNet50\Car_parts\data3a\training\01-minor\images (76).jpeg,01-minor,0,0.9522289037704468
+ResNet50\Car_parts\data3a\training\01-minor\images (77).jpeg,01-minor,0,0.8326904773712158
+ResNet50\Car_parts\data3a\training\01-minor\images (78).jpeg,01-minor,0,0.9457899332046509
+ResNet50\Car_parts\data3a\training\01-minor\images (79).jpeg,01-minor,0,0.7464513778686523
+ResNet50\Car_parts\data3a\training\01-minor\images (8).jpeg,01-minor,0,0.7662859559059143
+ResNet50\Car_parts\data3a\training\01-minor\images (82).jpeg,01-minor,0,0.9486978054046631
+ResNet50\Car_parts\data3a\training\01-minor\images (83).jpeg,01-minor,0,0.8791239857673645
+ResNet50\Car_parts\data3a\training\01-minor\images (87).jpeg,01-minor,0,0.867687463760376
+ResNet50\Car_parts\data3a\training\01-minor\images (88).jpeg,01-minor,0,0.932395875453949
+ResNet50\Car_parts\data3a\training\01-minor\images (89).jpeg,01-minor,0,0.982283890247345
+ResNet50\Car_parts\data3a\training\01-minor\images (9).jpeg,01-minor,0,0.8289446234703064
+ResNet50\Car_parts\data3a\training\01-minor\images (91).jpeg,01-minor,0,0.982878565788269
+ResNet50\Car_parts\data3a\training\01-minor\images (92).jpeg,01-minor,0,0.8337463736534119
+ResNet50\Car_parts\data3a\training\01-minor\images (93).jpeg,01-minor,0,0.9051758646965027
+ResNet50\Car_parts\data3a\training\01-minor\images (97).jpeg,01-minor,0,0.989952027797699
+ResNet50\Car_parts\data3a\training\01-minor\images (98).jpeg,01-minor,0,0.8814230561256409
+ResNet50\Car_parts\data3a\training\01-minor\images (99).jpeg,01-minor,0,0.8118175864219666
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151411.008.jpeg,01-minor,0,0.6540185213088989
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151411.669.jpeg,01-minor,0,0.7361910939216614
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151411.728.jpeg,01-minor,0,0.8976684808731079
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151411.784.jpeg,01-minor,0,0.6872916221618652
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151413.058.jpeg,01-minor,0,0.9251227378845215
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151413.100.jpeg,01-minor,0,0.9270532131195068
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151413.251.jpeg,01-minor,0,0.847643256187439
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151413.666.jpeg,01-minor,0,0.8526545166969299
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151413.771.jpeg,01-minor,0,0.8638241291046143
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151413.832.jpeg,01-minor,0,0.737000584602356
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151414.520.jpeg,01-minor,0,0.7354987263679504
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151415.502.jpeg,01-minor,0,0.8486785888671875
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151416.035.jpeg,01-minor,0,0.8789824843406677
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151416.541.jpeg,02-moderate,1,0.6441884636878967
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151416.652.jpeg,01-minor,0,0.9649287462234497
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151417.660.jpeg,01-minor,0,0.9378451108932495
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151418.111.jpeg,01-minor,0,0.8850834965705872
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151418.125.jpeg,02-moderate,1,0.5296216011047363
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151418.172.jpeg,01-minor,0,0.9062774181365967
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151418.705.jpeg,01-minor,0,0.9614155292510986
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151419.050.jpeg,01-minor,0,0.6451401710510254
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-12T151420.569.jpeg,01-minor,0,0.8039610385894775
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-13T213955.259.jpeg,01-minor,0,0.7783356308937073
+ResNet50\Car_parts\data3a\training\01-minor\images - 2022-12-13T213955.297.jpeg,01-minor,0,0.9460892081260681
+ResNet50\Car_parts\data3a\training\01-minor\images.jpeg,01-minor,0,0.6737452745437622
+ResNet50\Car_parts\data3a\training\02-moderate\0001.JPEG,02-moderate,1,0.7534639239311218
+ResNet50\Car_parts\data3a\training\02-moderate\0002.JPEG,02-moderate,1,0.6469455361366272
+ResNet50\Car_parts\data3a\training\02-moderate\0003.JPEG,02-moderate,1,0.6306036710739136
+ResNet50\Car_parts\data3a\training\02-moderate\0004.JPEG,02-moderate,1,0.8874964118003845
+ResNet50\Car_parts\data3a\training\02-moderate\0005.JPEG,02-moderate,1,0.6424486041069031
+ResNet50\Car_parts\data3a\training\02-moderate\0006.JPEG,01-minor,0,0.5136123299598694
+ResNet50\Car_parts\data3a\training\02-moderate\0007.JPEG,02-moderate,1,0.6931816339492798
+ResNet50\Car_parts\data3a\training\02-moderate\0008.JPEG,02-moderate,1,0.7562289237976074
+ResNet50\Car_parts\data3a\training\02-moderate\0009.JPEG,01-minor,0,0.8146501183509827
+ResNet50\Car_parts\data3a\training\02-moderate\0010.JPEG,02-moderate,1,0.7584992051124573
+ResNet50\Car_parts\data3a\training\02-moderate\0011.JPEG,02-moderate,1,0.7769089937210083
+ResNet50\Car_parts\data3a\training\02-moderate\0012.JPEG,02-moderate,1,0.671205461025238
+ResNet50\Car_parts\data3a\training\02-moderate\0013.JPEG,02-moderate,1,0.688615620136261
+ResNet50\Car_parts\data3a\training\02-moderate\0014.JPEG,03-severe,2,0.497997522354126
+ResNet50\Car_parts\data3a\training\02-moderate\0015.JPEG,02-moderate,1,0.8271153569221497
+ResNet50\Car_parts\data3a\training\02-moderate\0016.JPEG,02-moderate,1,0.8083388805389404
+ResNet50\Car_parts\data3a\training\02-moderate\0017.JPEG,02-moderate,1,0.940021812915802
+ResNet50\Car_parts\data3a\training\02-moderate\0018.JPEG,02-moderate,1,0.8729934692382812
+ResNet50\Car_parts\data3a\training\02-moderate\0019.JPEG,02-moderate,1,0.7006672620773315
+ResNet50\Car_parts\data3a\training\02-moderate\0020.JPEG,02-moderate,1,0.769829273223877
+ResNet50\Car_parts\data3a\training\02-moderate\0021.JPEG,02-moderate,1,0.5880932807922363
+ResNet50\Car_parts\data3a\training\02-moderate\0022.JPEG,02-moderate,1,0.7532459497451782
+ResNet50\Car_parts\data3a\training\02-moderate\0023.JPEG,02-moderate,1,0.9910336136817932
+ResNet50\Car_parts\data3a\training\02-moderate\0024.JPEG,02-moderate,1,0.9449208974838257
+ResNet50\Car_parts\data3a\training\02-moderate\0025.JPEG,02-moderate,1,0.9491429328918457
+ResNet50\Car_parts\data3a\training\02-moderate\0026.JPEG,02-moderate,1,0.938422679901123
+ResNet50\Car_parts\data3a\training\02-moderate\0027.JPEG,02-moderate,1,0.9289280772209167
+ResNet50\Car_parts\data3a\training\02-moderate\0028.JPEG,02-moderate,1,0.5834614038467407
+ResNet50\Car_parts\data3a\training\02-moderate\0029.JPEG,02-moderate,1,0.8799620866775513
+ResNet50\Car_parts\data3a\training\02-moderate\0030.JPEG,02-moderate,1,0.9060232043266296
+ResNet50\Car_parts\data3a\training\02-moderate\0031.JPEG,01-minor,0,0.6270636916160583
+ResNet50\Car_parts\data3a\training\02-moderate\0032.JPEG,02-moderate,1,0.6708390116691589
+ResNet50\Car_parts\data3a\training\02-moderate\0033.JPEG,02-moderate,1,0.46783018112182617
+ResNet50\Car_parts\data3a\training\02-moderate\0034.JPEG,02-moderate,1,0.89954674243927
+ResNet50\Car_parts\data3a\training\02-moderate\0035.JPEG,02-moderate,1,0.8112565875053406
+ResNet50\Car_parts\data3a\training\02-moderate\0036.JPEG,02-moderate,1,0.7256717681884766
+ResNet50\Car_parts\data3a\training\02-moderate\0037.JPEG,02-moderate,1,0.936259925365448
+ResNet50\Car_parts\data3a\training\02-moderate\0038.JPEG,02-moderate,1,0.7081397175788879
+ResNet50\Car_parts\data3a\training\02-moderate\0039.JPEG,02-moderate,1,0.9745383858680725
+ResNet50\Car_parts\data3a\training\02-moderate\0040.JPEG,02-moderate,1,0.772498607635498
+ResNet50\Car_parts\data3a\training\02-moderate\0041.JPEG,02-moderate,1,0.6559740900993347
+ResNet50\Car_parts\data3a\training\02-moderate\0042.JPEG,01-minor,0,0.621799111366272
+ResNet50\Car_parts\data3a\training\02-moderate\0043.JPEG,02-moderate,1,0.7047789692878723
+ResNet50\Car_parts\data3a\training\02-moderate\0044.JPEG,02-moderate,1,0.7764697670936584
+ResNet50\Car_parts\data3a\training\02-moderate\0045.JPEG,02-moderate,1,0.919968843460083
+ResNet50\Car_parts\data3a\training\02-moderate\0046.JPEG,02-moderate,1,0.9035838842391968
+ResNet50\Car_parts\data3a\training\02-moderate\0047.JPEG,02-moderate,1,0.9912904500961304
+ResNet50\Car_parts\data3a\training\02-moderate\0048.JPEG,02-moderate,1,0.9424304962158203
+ResNet50\Car_parts\data3a\training\02-moderate\0049.JPEG,02-moderate,1,0.5874340534210205
+ResNet50\Car_parts\data3a\training\02-moderate\0050.JPEG,02-moderate,1,0.8816761374473572
+ResNet50\Car_parts\data3a\training\02-moderate\0051.JPEG,02-moderate,1,0.590965747833252
+ResNet50\Car_parts\data3a\training\02-moderate\0052.JPEG,02-moderate,1,0.5858263373374939
+ResNet50\Car_parts\data3a\training\02-moderate\0053.JPEG,03-severe,2,0.6062192320823669
+ResNet50\Car_parts\data3a\training\02-moderate\0054.JPEG,02-moderate,1,0.5954499840736389
+ResNet50\Car_parts\data3a\training\02-moderate\0055.JPEG,02-moderate,1,0.9857536554336548
+ResNet50\Car_parts\data3a\training\02-moderate\0056.JPEG,02-moderate,1,0.9535844326019287
+ResNet50\Car_parts\data3a\training\02-moderate\0057.JPEG,02-moderate,1,0.9020694494247437
+ResNet50\Car_parts\data3a\training\02-moderate\0058.JPEG,02-moderate,1,0.798182487487793
+ResNet50\Car_parts\data3a\training\02-moderate\0059.JPEG,02-moderate,1,0.7244430184364319
+ResNet50\Car_parts\data3a\training\02-moderate\0060.JPEG,02-moderate,1,0.8740045428276062
+ResNet50\Car_parts\data3a\training\02-moderate\0061.jpeg,02-moderate,1,0.6635844111442566
+ResNet50\Car_parts\data3a\training\02-moderate\0062.JPEG,01-minor,0,0.8264397382736206
+ResNet50\Car_parts\data3a\training\02-moderate\0063.JPEG,02-moderate,1,0.564697265625
+ResNet50\Car_parts\data3a\training\02-moderate\0064.jpeg,01-minor,0,0.8796117901802063
+ResNet50\Car_parts\data3a\training\02-moderate\0065.JPEG,02-moderate,1,0.525942325592041
+ResNet50\Car_parts\data3a\training\02-moderate\0066.JPEG,02-moderate,1,0.8607304096221924
+ResNet50\Car_parts\data3a\training\02-moderate\0067.JPEG,02-moderate,1,0.8103654384613037
+ResNet50\Car_parts\data3a\training\02-moderate\0068.JPEG,02-moderate,1,0.6673440337181091
+ResNet50\Car_parts\data3a\training\02-moderate\0069.JPEG,02-moderate,1,0.5258181095123291
+ResNet50\Car_parts\data3a\training\02-moderate\0070.JPEG,02-moderate,1,0.5321328043937683
+ResNet50\Car_parts\data3a\training\02-moderate\0071.JPEG,02-moderate,1,0.9368309378623962
+ResNet50\Car_parts\data3a\training\02-moderate\0072.jpeg,02-moderate,1,0.9609313607215881
+ResNet50\Car_parts\data3a\training\02-moderate\0073.JPEG,01-minor,0,0.6382554173469543
+ResNet50\Car_parts\data3a\training\02-moderate\0074.JPEG,02-moderate,1,0.9182614684104919
+ResNet50\Car_parts\data3a\training\02-moderate\0075.JPEG,02-moderate,1,0.8001102805137634
+ResNet50\Car_parts\data3a\training\02-moderate\0076.JPEG,02-moderate,1,0.9425583481788635
+ResNet50\Car_parts\data3a\training\02-moderate\0077.jpeg,02-moderate,1,0.8552061915397644
+ResNet50\Car_parts\data3a\training\02-moderate\0078.JPEG,02-moderate,1,0.8408695459365845
+ResNet50\Car_parts\data3a\training\02-moderate\0079.JPEG,02-moderate,1,0.6229726672172546
+ResNet50\Car_parts\data3a\training\02-moderate\0080.jpeg,02-moderate,1,0.6797375082969666
+ResNet50\Car_parts\data3a\training\02-moderate\0081.JPEG,02-moderate,1,0.5158337950706482
+ResNet50\Car_parts\data3a\training\02-moderate\0082.JPEG,02-moderate,1,0.9375748634338379
+ResNet50\Car_parts\data3a\training\02-moderate\0083.JPEG,02-moderate,1,0.7908555269241333
+ResNet50\Car_parts\data3a\training\02-moderate\0084.jpeg,02-moderate,1,0.9609954357147217
+ResNet50\Car_parts\data3a\training\02-moderate\0085.jpeg,01-minor,0,0.544116199016571
+ResNet50\Car_parts\data3a\training\02-moderate\0086.JPEG,02-moderate,1,0.9259366989135742
+ResNet50\Car_parts\data3a\training\02-moderate\0087.jpeg,02-moderate,1,0.6941303610801697
+ResNet50\Car_parts\data3a\training\02-moderate\0088.JPEG,02-moderate,1,0.9700872302055359
+ResNet50\Car_parts\data3a\training\02-moderate\0089.jpeg,02-moderate,1,0.9268403053283691
+ResNet50\Car_parts\data3a\training\02-moderate\0090.JPEG,02-moderate,1,0.8498995304107666
+ResNet50\Car_parts\data3a\training\02-moderate\0091.JPEG,03-severe,2,0.7325471043586731
+ResNet50\Car_parts\data3a\training\02-moderate\0092.JPEG,02-moderate,1,0.8683665990829468
+ResNet50\Car_parts\data3a\training\02-moderate\0093.JPEG,02-moderate,1,0.48172450065612793
+ResNet50\Car_parts\data3a\training\02-moderate\0094.JPEG,03-severe,2,0.4679182469844818
+ResNet50\Car_parts\data3a\training\02-moderate\0095.jpeg,02-moderate,1,0.6663562059402466
+ResNet50\Car_parts\data3a\training\02-moderate\0096.JPEG,02-moderate,1,0.7708503603935242
+ResNet50\Car_parts\data3a\training\02-moderate\0097.JPEG,01-minor,0,0.650744616985321
+ResNet50\Car_parts\data3a\training\02-moderate\0098.JPEG,02-moderate,1,0.9731865525245667
+ResNet50\Car_parts\data3a\training\02-moderate\0099.JPEG,02-moderate,1,0.8116101622581482
+ResNet50\Car_parts\data3a\training\02-moderate\0100.JPEG,02-moderate,1,0.8702197670936584
+ResNet50\Car_parts\data3a\training\02-moderate\0101.JPEG,02-moderate,1,0.9431460499763489
+ResNet50\Car_parts\data3a\training\02-moderate\0102.JPEG,02-moderate,1,0.9011802077293396
+ResNet50\Car_parts\data3a\training\02-moderate\0103.JPEG,03-severe,2,0.5231678485870361
+ResNet50\Car_parts\data3a\training\02-moderate\0104.JPEG,02-moderate,1,0.68138188123703
+ResNet50\Car_parts\data3a\training\02-moderate\0105.JPEG,03-severe,2,0.45561012625694275
+ResNet50\Car_parts\data3a\training\02-moderate\0106.JPEG,02-moderate,1,0.8153923153877258
+ResNet50\Car_parts\data3a\training\02-moderate\0107.JPEG,02-moderate,1,0.9601632356643677
+ResNet50\Car_parts\data3a\training\02-moderate\0108.JPEG,01-minor,0,0.6630591154098511
+ResNet50\Car_parts\data3a\training\02-moderate\0109.JPEG,02-moderate,1,0.9041095972061157
+ResNet50\Car_parts\data3a\training\02-moderate\0110.JPEG,02-moderate,1,0.9452905058860779
+ResNet50\Car_parts\data3a\training\02-moderate\0111.JPEG,02-moderate,1,0.9088958501815796
+ResNet50\Car_parts\data3a\training\02-moderate\0112.JPEG,01-minor,0,0.7499724626541138
+ResNet50\Car_parts\data3a\training\02-moderate\0113.JPEG,02-moderate,1,0.7384834885597229
+ResNet50\Car_parts\data3a\training\02-moderate\0114.JPEG,02-moderate,1,0.7701563239097595
+ResNet50\Car_parts\data3a\training\02-moderate\0115.JPEG,02-moderate,1,0.930409848690033
+ResNet50\Car_parts\data3a\training\02-moderate\0116.JPEG,02-moderate,1,0.813287615776062
+ResNet50\Car_parts\data3a\training\02-moderate\0117.JPEG,02-moderate,1,0.948393702507019
+ResNet50\Car_parts\data3a\training\02-moderate\0118.JPEG,02-moderate,1,0.78006911277771
+ResNet50\Car_parts\data3a\training\02-moderate\0119.JPEG,02-moderate,1,0.8018459677696228
+ResNet50\Car_parts\data3a\training\02-moderate\0120.JPEG,02-moderate,1,0.9761396050453186
+ResNet50\Car_parts\data3a\training\02-moderate\0121.JPEG,02-moderate,1,0.9461728930473328
+ResNet50\Car_parts\data3a\training\02-moderate\0122.JPEG,02-moderate,1,0.9310030937194824
+ResNet50\Car_parts\data3a\training\02-moderate\0123.JPEG,02-moderate,1,0.9541093707084656
+ResNet50\Car_parts\data3a\training\02-moderate\0124.JPEG,03-severe,2,0.5226112604141235
+ResNet50\Car_parts\data3a\training\02-moderate\0125.JPEG,02-moderate,1,0.8727105259895325
+ResNet50\Car_parts\data3a\training\02-moderate\0126.JPEG,01-minor,0,0.5429901480674744
+ResNet50\Car_parts\data3a\training\02-moderate\0127.JPEG,02-moderate,1,0.5774744153022766
+ResNet50\Car_parts\data3a\training\02-moderate\0128.jpeg,02-moderate,1,0.9572708010673523
+ResNet50\Car_parts\data3a\training\02-moderate\0129.JPEG,02-moderate,1,0.6073155999183655
+ResNet50\Car_parts\data3a\training\02-moderate\0130.JPEG,01-minor,0,0.6663879752159119
+ResNet50\Car_parts\data3a\training\02-moderate\0131.JPEG,02-moderate,1,0.903165340423584
+ResNet50\Car_parts\data3a\training\02-moderate\0132.JPEG,02-moderate,1,0.6651400923728943
+ResNet50\Car_parts\data3a\training\02-moderate\0133.JPEG,02-moderate,1,0.8083802461624146
+ResNet50\Car_parts\data3a\training\02-moderate\0134.JPEG,02-moderate,1,0.9853251576423645
+ResNet50\Car_parts\data3a\training\02-moderate\0135.JPEG,02-moderate,1,0.9815731048583984
+ResNet50\Car_parts\data3a\training\02-moderate\0136.JPEG,02-moderate,1,0.8157687783241272
+ResNet50\Car_parts\data3a\training\02-moderate\0137.JPEG,02-moderate,1,0.444670706987381
+ResNet50\Car_parts\data3a\training\02-moderate\0138.JPEG,02-moderate,1,0.9593276977539062
+ResNet50\Car_parts\data3a\training\02-moderate\0139.JPEG,02-moderate,1,0.9753309488296509
+ResNet50\Car_parts\data3a\training\02-moderate\0140.JPEG,02-moderate,1,0.7570475935935974
+ResNet50\Car_parts\data3a\training\02-moderate\0141.JPEG,02-moderate,1,0.8228338956832886
+ResNet50\Car_parts\data3a\training\02-moderate\0142.JPEG,02-moderate,1,0.7677050828933716
+ResNet50\Car_parts\data3a\training\02-moderate\0143.jpeg,02-moderate,1,0.9789363145828247
+ResNet50\Car_parts\data3a\training\02-moderate\0144.JPEG,01-minor,0,0.47631388902664185
+ResNet50\Car_parts\data3a\training\02-moderate\0145.JPEG,02-moderate,1,0.8894978761672974
+ResNet50\Car_parts\data3a\training\02-moderate\0146.JPEG,02-moderate,1,0.6898793578147888
+ResNet50\Car_parts\data3a\training\02-moderate\0147.JPEG,02-moderate,1,0.6074212789535522
+ResNet50\Car_parts\data3a\training\02-moderate\0148.JPEG,02-moderate,1,0.8651265501976013
+ResNet50\Car_parts\data3a\training\02-moderate\0149.JPEG,02-moderate,1,0.9137040376663208
+ResNet50\Car_parts\data3a\training\02-moderate\0150.JPEG,02-moderate,1,0.8386005759239197
+ResNet50\Car_parts\data3a\training\02-moderate\0151.JPEG,02-moderate,1,0.7519406080245972
+ResNet50\Car_parts\data3a\training\02-moderate\0152.JPEG,02-moderate,1,0.7040941119194031
+ResNet50\Car_parts\data3a\training\02-moderate\0153.JPEG,02-moderate,1,0.9887369275093079
+ResNet50\Car_parts\data3a\training\02-moderate\0154.JPEG,02-moderate,1,0.938247561454773
+ResNet50\Car_parts\data3a\training\02-moderate\0155.JPEG,02-moderate,1,0.6895273327827454
+ResNet50\Car_parts\data3a\training\02-moderate\0156.JPEG,02-moderate,1,0.88729327917099
+ResNet50\Car_parts\data3a\training\02-moderate\0157.JPEG,02-moderate,1,0.9744963645935059
+ResNet50\Car_parts\data3a\training\02-moderate\0158.JPEG,02-moderate,1,0.9452475905418396
+ResNet50\Car_parts\data3a\training\02-moderate\0159.JPEG,02-moderate,1,0.9017900824546814
+ResNet50\Car_parts\data3a\training\02-moderate\0160.JPEG,02-moderate,1,0.8504655957221985
+ResNet50\Car_parts\data3a\training\02-moderate\0161.JPEG,02-moderate,1,0.9188288450241089
+ResNet50\Car_parts\data3a\training\02-moderate\0162.JPEG,02-moderate,1,0.9582236409187317
+ResNet50\Car_parts\data3a\training\02-moderate\0163.JPEG,01-minor,0,0.5419607758522034
+ResNet50\Car_parts\data3a\training\02-moderate\0164.JPEG,02-moderate,1,0.8058303594589233
+ResNet50\Car_parts\data3a\training\02-moderate\0165.JPEG,02-moderate,1,0.9647355079650879
+ResNet50\Car_parts\data3a\training\02-moderate\0166.JPEG,02-moderate,1,0.5470294952392578
+ResNet50\Car_parts\data3a\training\02-moderate\0167.JPEG,02-moderate,1,0.850283682346344
+ResNet50\Car_parts\data3a\training\02-moderate\0168.JPEG,02-moderate,1,0.7129319310188293
+ResNet50\Car_parts\data3a\training\02-moderate\0169.JPEG,02-moderate,1,0.6489244103431702
+ResNet50\Car_parts\data3a\training\02-moderate\0170.JPEG,02-moderate,1,0.9610247015953064
+ResNet50\Car_parts\data3a\training\02-moderate\0171.JPEG,02-moderate,1,0.6174005270004272
+ResNet50\Car_parts\data3a\training\02-moderate\0172.JPEG,02-moderate,1,0.8387141227722168
+ResNet50\Car_parts\data3a\training\02-moderate\0173.JPEG,02-moderate,1,0.821738064289093
+ResNet50\Car_parts\data3a\training\02-moderate\0174.JPEG,02-moderate,1,0.9062082171440125
+ResNet50\Car_parts\data3a\training\02-moderate\0175.JPEG,02-moderate,1,0.8037827014923096
+ResNet50\Car_parts\data3a\training\02-moderate\0176.JPEG,02-moderate,1,0.7661193609237671
+ResNet50\Car_parts\data3a\training\02-moderate\0177.JPEG,02-moderate,1,0.8900591135025024
+ResNet50\Car_parts\data3a\training\02-moderate\0178.JPEG,02-moderate,1,0.893582284450531
+ResNet50\Car_parts\data3a\training\02-moderate\0179.JPEG,02-moderate,1,0.5226167440414429
+ResNet50\Car_parts\data3a\training\02-moderate\0180.JPEG,02-moderate,1,0.524810791015625
+ResNet50\Car_parts\data3a\training\02-moderate\0181.JPEG,02-moderate,1,0.9226407408714294
+ResNet50\Car_parts\data3a\training\02-moderate\0182.JPEG,02-moderate,1,0.8924078345298767
+ResNet50\Car_parts\data3a\training\02-moderate\0183.JPEG,02-moderate,1,0.8958330750465393
+ResNet50\Car_parts\data3a\training\02-moderate\0184.JPEG,02-moderate,1,0.9572038054466248
+ResNet50\Car_parts\data3a\training\02-moderate\0185.jpeg,02-moderate,1,0.6899508237838745
+ResNet50\Car_parts\data3a\training\02-moderate\0186.JPEG,02-moderate,1,0.4937308728694916
+ResNet50\Car_parts\data3a\training\02-moderate\0187.JPEG,02-moderate,1,0.9824770092964172
+ResNet50\Car_parts\data3a\training\02-moderate\0188.JPEG,02-moderate,1,0.9480711817741394
+ResNet50\Car_parts\data3a\training\02-moderate\0189.JPEG,02-moderate,1,0.620166003704071
+ResNet50\Car_parts\data3a\training\02-moderate\0190.JPEG,02-moderate,1,0.5841235518455505
+ResNet50\Car_parts\data3a\training\02-moderate\0191.JPEG,02-moderate,1,0.827928364276886
+ResNet50\Car_parts\data3a\training\02-moderate\0192.JPEG,02-moderate,1,0.7703776359558105
+ResNet50\Car_parts\data3a\training\02-moderate\0193.JPEG,02-moderate,1,0.9075816869735718
+ResNet50\Car_parts\data3a\training\02-moderate\0194.JPEG,02-moderate,1,0.7987004518508911
+ResNet50\Car_parts\data3a\training\02-moderate\0195.JPEG,02-moderate,1,0.8445461988449097
+ResNet50\Car_parts\data3a\training\02-moderate\0196.JPEG,02-moderate,1,0.7678052186965942
+ResNet50\Car_parts\data3a\training\02-moderate\0197.JPEG,02-moderate,1,0.8762668967247009
+ResNet50\Car_parts\data3a\training\02-moderate\0198.JPEG,02-moderate,1,0.8498995304107666
+ResNet50\Car_parts\data3a\training\02-moderate\0199.JPEG,02-moderate,1,0.8992367386817932
+ResNet50\Car_parts\data3a\training\02-moderate\0200.JPEG,01-minor,0,0.817462146282196
+ResNet50\Car_parts\data3a\training\02-moderate\0201.JPEG,02-moderate,1,0.5379840135574341
+ResNet50\Car_parts\data3a\training\02-moderate\0202.JPEG,02-moderate,1,0.7548924684524536
+ResNet50\Car_parts\data3a\training\02-moderate\0203.JPEG,02-moderate,1,0.6778721213340759
+ResNet50\Car_parts\data3a\training\02-moderate\0204.JPEG,02-moderate,1,0.9857536554336548
+ResNet50\Car_parts\data3a\training\02-moderate\0205.JPEG,02-moderate,1,0.6780263781547546
+ResNet50\Car_parts\data3a\training\02-moderate\0206.JPEG,01-minor,0,0.4401571750640869
+ResNet50\Car_parts\data3a\training\02-moderate\0207.JPEG,02-moderate,1,0.9789534211158752
+ResNet50\Car_parts\data3a\training\02-moderate\0208.JPEG,02-moderate,1,0.8730950951576233
+ResNet50\Car_parts\data3a\training\02-moderate\0209.JPEG,02-moderate,1,0.7643236517906189
+ResNet50\Car_parts\data3a\training\02-moderate\0210.JPEG,02-moderate,1,0.6895080208778381
+ResNet50\Car_parts\data3a\training\02-moderate\0211.JPEG,02-moderate,1,0.7704861164093018
+ResNet50\Car_parts\data3a\training\02-moderate\0212.JPEG,02-moderate,1,0.7860769033432007
+ResNet50\Car_parts\data3a\training\02-moderate\0213.JPEG,02-moderate,1,0.8965195417404175
+ResNet50\Car_parts\data3a\training\02-moderate\0214.JPEG,02-moderate,1,0.4585409164428711
+ResNet50\Car_parts\data3a\training\02-moderate\0215.JPEG,01-minor,0,0.8265753984451294
+ResNet50\Car_parts\data3a\training\02-moderate\0216.JPEG,02-moderate,1,0.8477497696876526
+ResNet50\Car_parts\data3a\training\02-moderate\0217.JPEG,02-moderate,1,0.9158790707588196
+ResNet50\Car_parts\data3a\training\02-moderate\0218.JPEG,01-minor,0,0.5853613615036011
+ResNet50\Car_parts\data3a\training\02-moderate\0219.JPEG,02-moderate,1,0.6076073050498962
+ResNet50\Car_parts\data3a\training\02-moderate\0220.JPEG,02-moderate,1,0.9151100516319275
+ResNet50\Car_parts\data3a\training\02-moderate\0221.JPEG,02-moderate,1,0.8589840531349182
+ResNet50\Car_parts\data3a\training\02-moderate\0222.JPEG,02-moderate,1,0.8203062415122986
+ResNet50\Car_parts\data3a\training\02-moderate\0223.JPEG,02-moderate,1,0.4645879864692688
+ResNet50\Car_parts\data3a\training\02-moderate\0224.JPEG,02-moderate,1,0.7884726524353027
+ResNet50\Car_parts\data3a\training\02-moderate\0225.JPEG,02-moderate,1,0.8681173920631409
+ResNet50\Car_parts\data3a\training\02-moderate\0226.JPEG,03-severe,2,0.582695722579956
+ResNet50\Car_parts\data3a\training\02-moderate\0227.JPEG,02-moderate,1,0.8878211975097656
+ResNet50\Car_parts\data3a\training\02-moderate\0228.JPEG,02-moderate,1,0.7405940890312195
+ResNet50\Car_parts\data3a\training\02-moderate\0229.JPEG,02-moderate,1,0.7728323936462402
+ResNet50\Car_parts\data3a\training\02-moderate\0230.JPEG,02-moderate,1,0.7812391519546509
+ResNet50\Car_parts\data3a\training\02-moderate\0231.JPEG,02-moderate,1,0.8854665160179138
+ResNet50\Car_parts\data3a\training\02-moderate\0232.JPEG,02-moderate,1,0.7703068852424622
+ResNet50\Car_parts\data3a\training\02-moderate\0233.JPEG,01-minor,0,0.517042875289917
+ResNet50\Car_parts\data3a\training\02-moderate\0234.JPEG,02-moderate,1,0.7369847893714905
+ResNet50\Car_parts\data3a\training\02-moderate\0235.JPEG,02-moderate,1,0.6713366508483887
+ResNet50\Car_parts\data3a\training\02-moderate\0236.JPEG,02-moderate,1,0.8327937126159668
+ResNet50\Car_parts\data3a\training\02-moderate\0237.JPEG,01-minor,0,0.6493483781814575
+ResNet50\Car_parts\data3a\training\02-moderate\0238.JPEG,02-moderate,1,0.8910920023918152
+ResNet50\Car_parts\data3a\training\02-moderate\0239.JPEG,02-moderate,1,0.7779554724693298
+ResNet50\Car_parts\data3a\training\02-moderate\0240.JPEG,02-moderate,1,0.9420923590660095
+ResNet50\Car_parts\data3a\training\02-moderate\0241.jpeg,02-moderate,1,0.6617352366447449
+ResNet50\Car_parts\data3a\training\02-moderate\0242.JPEG,02-moderate,1,0.8482745289802551
+ResNet50\Car_parts\data3a\training\02-moderate\0243.JPEG,02-moderate,1,0.884254515171051
+ResNet50\Car_parts\data3a\training\02-moderate\0244.JPEG,02-moderate,1,0.5410422086715698
+ResNet50\Car_parts\data3a\training\02-moderate\0245.JPEG,02-moderate,1,0.7228125333786011
+ResNet50\Car_parts\data3a\training\02-moderate\0246.JPEG,02-moderate,1,0.9356921911239624
+ResNet50\Car_parts\data3a\training\02-moderate\0247.JPEG,03-severe,2,0.6262269616127014
+ResNet50\Car_parts\data3a\training\02-moderate\0248.JPEG,02-moderate,1,0.8944337368011475
+ResNet50\Car_parts\data3a\training\02-moderate\0249.jpeg,02-moderate,1,0.8133010268211365
+ResNet50\Car_parts\data3a\training\02-moderate\0250.JPEG,02-moderate,1,0.5931084752082825
+ResNet50\Car_parts\data3a\training\02-moderate\0251.jpeg,02-moderate,1,0.8537349104881287
+ResNet50\Car_parts\data3a\training\02-moderate\0252.JPEG,02-moderate,1,0.8224294185638428
+ResNet50\Car_parts\data3a\training\02-moderate\0253.jpeg,02-moderate,1,0.5471398830413818
+ResNet50\Car_parts\data3a\training\02-moderate\0254.JPEG,02-moderate,1,0.6571074724197388
+ResNet50\Car_parts\data3a\training\02-moderate\0255.JPEG,02-moderate,1,0.9054816961288452
+ResNet50\Car_parts\data3a\training\02-moderate\0256.JPEG,02-moderate,1,0.9763565063476562
+ResNet50\Car_parts\data3a\training\02-moderate\0257.JPEG,02-moderate,1,0.8867164254188538
+ResNet50\Car_parts\data3a\training\02-moderate\0258.JPEG,02-moderate,1,0.6873829960823059
+ResNet50\Car_parts\data3a\training\02-moderate\0259.JPEG,02-moderate,1,0.9080208539962769
+ResNet50\Car_parts\data3a\training\02-moderate\0260.jpeg,02-moderate,1,0.75080406665802
+ResNet50\Car_parts\data3a\training\02-moderate\0261.JPEG,02-moderate,1,0.7631831169128418
+ResNet50\Car_parts\data3a\training\02-moderate\0262.jpeg,02-moderate,1,0.548943281173706
+ResNet50\Car_parts\data3a\training\02-moderate\0263.JPEG,02-moderate,1,0.4855150282382965
+ResNet50\Car_parts\data3a\training\02-moderate\0264.JPEG,02-moderate,1,0.801379382610321
+ResNet50\Car_parts\data3a\training\02-moderate\0265.JPEG,02-moderate,1,0.6721646785736084
+ResNet50\Car_parts\data3a\training\02-moderate\0266.JPEG,01-minor,0,0.7589854001998901
+ResNet50\Car_parts\data3a\training\02-moderate\0267.jpeg,01-minor,0,0.6195443868637085
+ResNet50\Car_parts\data3a\training\02-moderate\0268.JPEG,02-moderate,1,0.619992733001709
+ResNet50\Car_parts\data3a\training\02-moderate\0269.JPEG,01-minor,0,0.5483158826828003
+ResNet50\Car_parts\data3a\training\02-moderate\0270.JPEG,02-moderate,1,0.7648016214370728
+ResNet50\Car_parts\data3a\training\02-moderate\0271.JPEG,02-moderate,1,0.9660202860832214
+ResNet50\Car_parts\data3a\training\02-moderate\0272.JPEG,02-moderate,1,0.9248349070549011
+ResNet50\Car_parts\data3a\training\02-moderate\0273.JPEG,02-moderate,1,0.761185348033905
+ResNet50\Car_parts\data3a\training\02-moderate\0274.JPEG,03-severe,2,0.5425986647605896
+ResNet50\Car_parts\data3a\training\02-moderate\0275.JPEG,02-moderate,1,0.5666244029998779
+ResNet50\Car_parts\data3a\training\02-moderate\0276.JPEG,02-moderate,1,0.5392218232154846
+ResNet50\Car_parts\data3a\training\02-moderate\0277.JPEG,01-minor,0,0.5865210890769958
+ResNet50\Car_parts\data3a\training\02-moderate\0278.jpeg,02-moderate,1,0.7664511799812317
+ResNet50\Car_parts\data3a\training\02-moderate\0279.JPEG,03-severe,2,0.46453857421875
+ResNet50\Car_parts\data3a\training\02-moderate\0280.JPEG,02-moderate,1,0.8271634578704834
+ResNet50\Car_parts\data3a\training\02-moderate\0281.JPEG,02-moderate,1,0.6141137480735779
+ResNet50\Car_parts\data3a\training\02-moderate\0282.JPEG,02-moderate,1,0.7266954183578491
+ResNet50\Car_parts\data3a\training\02-moderate\0283.JPEG,02-moderate,1,0.7919151186943054
+ResNet50\Car_parts\data3a\training\02-moderate\0284.JPEG,01-minor,0,0.7038324475288391
+ResNet50\Car_parts\data3a\training\02-moderate\0285.JPEG,02-moderate,1,0.7743021845817566
+ResNet50\Car_parts\data3a\training\02-moderate\0286.JPEG,02-moderate,1,0.4032496511936188
+ResNet50\Car_parts\data3a\training\02-moderate\0287.JPEG,02-moderate,1,0.9249730110168457
+ResNet50\Car_parts\data3a\training\02-moderate\0288.JPEG,01-minor,0,0.5717523694038391
+ResNet50\Car_parts\data3a\training\02-moderate\0289.JPEG,02-moderate,1,0.4752483665943146
+ResNet50\Car_parts\data3a\training\02-moderate\0290.JPEG,02-moderate,1,0.7230262160301208
+ResNet50\Car_parts\data3a\training\02-moderate\0291.JPEG,02-moderate,1,0.6917953491210938
+ResNet50\Car_parts\data3a\training\02-moderate\0292.JPEG,02-moderate,1,0.7786248922348022
+ResNet50\Car_parts\data3a\training\02-moderate\0293.JPEG,02-moderate,1,0.9805886149406433
+ResNet50\Car_parts\data3a\training\02-moderate\0294.JPEG,02-moderate,1,0.5436862707138062
+ResNet50\Car_parts\data3a\training\02-moderate\0295.JPEG,02-moderate,1,0.8577569127082825
+ResNet50\Car_parts\data3a\training\02-moderate\0296.JPEG,02-moderate,1,0.9461942315101624
+ResNet50\Car_parts\data3a\training\02-moderate\0297.JPEG,02-moderate,1,0.8885843753814697
+ResNet50\Car_parts\data3a\training\02-moderate\0298.JPEG,02-moderate,1,0.6953294277191162
+ResNet50\Car_parts\data3a\training\02-moderate\0299.JPEG,02-moderate,1,0.8298649191856384
+ResNet50\Car_parts\data3a\training\02-moderate\0300.JPEG,02-moderate,1,0.9791207313537598
+ResNet50\Car_parts\data3a\training\02-moderate\0301.JPEG,02-moderate,1,0.893327534198761
+ResNet50\Car_parts\data3a\training\02-moderate\0302.JPEG,02-moderate,1,0.7929282188415527
+ResNet50\Car_parts\data3a\training\02-moderate\0303.JPEG,02-moderate,1,0.9281600117683411
+ResNet50\Car_parts\data3a\training\02-moderate\0304.JPEG,03-severe,2,0.5564085841178894
+ResNet50\Car_parts\data3a\training\02-moderate\0305.JPEG,01-minor,0,0.6156274080276489
+ResNet50\Car_parts\data3a\training\02-moderate\0306.JPEG,02-moderate,1,0.5190141797065735
+ResNet50\Car_parts\data3a\training\02-moderate\0307.JPEG,02-moderate,1,0.7498503923416138
+ResNet50\Car_parts\data3a\training\02-moderate\0308.JPEG,02-moderate,1,0.8888339996337891
+ResNet50\Car_parts\data3a\training\02-moderate\0309.JPEG,02-moderate,1,0.9242209196090698
+ResNet50\Car_parts\data3a\training\02-moderate\0310.JPEG,02-moderate,1,0.5215336084365845
+ResNet50\Car_parts\data3a\training\02-moderate\0311.jpeg,02-moderate,1,0.9947176575660706
+ResNet50\Car_parts\data3a\training\02-moderate\0312.JPEG,02-moderate,1,0.5853984951972961
+ResNet50\Car_parts\data3a\training\02-moderate\0313.JPEG,02-moderate,1,0.7012554407119751
+ResNet50\Car_parts\data3a\training\02-moderate\0314.JPEG,02-moderate,1,0.845822274684906
+ResNet50\Car_parts\data3a\training\02-moderate\0315.jpeg,02-moderate,1,0.9591373801231384
+ResNet50\Car_parts\data3a\training\02-moderate\038ac5f01d694b8180fc6f0e2cc71976_thb.jpg,02-moderate,1,0.9804365038871765
+ResNet50\Car_parts\data3a\training\02-moderate\06069fefa2294ca9a4bd4e3c146ede53_thb.jpg,02-moderate,1,0.9364793300628662
+ResNet50\Car_parts\data3a\training\02-moderate\18d42df6c365413bb3e9d3c7a79fdf61_thb.jpg,02-moderate,1,0.9575439691543579
+ResNet50\Car_parts\data3a\training\02-moderate\1b8f18c3429f44d4a712f655443fc5ec_thb.jpg,02-moderate,1,0.8423381447792053
+ResNet50\Car_parts\data3a\training\02-moderate\1dbc1bd213e74c8598e6874de9b55c53_thb.jpg,02-moderate,1,0.6471640467643738
+ResNet50\Car_parts\data3a\training\02-moderate\2497b894c0514209a2310265d5946c9f_thb.jpg,02-moderate,1,0.8666663765907288
+ResNet50\Car_parts\data3a\training\02-moderate\34b12abd905f4f8cb6385f45551cb994_thb.jpg,02-moderate,1,0.9786656498908997
+ResNet50\Car_parts\data3a\training\02-moderate\467fbd6dd7b148c1950833b4a472eef6_thb.jpg,02-moderate,1,0.9139763116836548
+ResNet50\Car_parts\data3a\training\02-moderate\494249b9484e4704878d24027d565259_thb.jpg,02-moderate,1,0.8846435546875
+ResNet50\Car_parts\data3a\training\02-moderate\4a6b5f174a914cd393dbd11f32902c7e_thb.jpg,02-moderate,1,0.9601780772209167
+ResNet50\Car_parts\data3a\training\02-moderate\4ac6b3f4fbb0418cb365fecb849b5ddf_thb.jpg,02-moderate,1,0.9661965370178223
+ResNet50\Car_parts\data3a\training\02-moderate\563c8da63e1b4b4dbcc0fe6581b224a1_thb.jpg,02-moderate,1,0.515451967716217
+ResNet50\Car_parts\data3a\training\02-moderate\598d5b29cf964e9b96e6d6af1e2857db_thb.jpg,02-moderate,1,0.5814331769943237
+ResNet50\Car_parts\data3a\training\02-moderate\5e958bd0-f875-4855-af2c-31c5b0ac2ab5.jpeg,02-moderate,1,0.9163147807121277
+ResNet50\Car_parts\data3a\training\02-moderate\632bbda7c6314b97a49ba3af3712366f_thb.jpg,02-moderate,1,0.784052312374115
+ResNet50\Car_parts\data3a\training\02-moderate\722fc0bf-7493-4e6e-b101-67a0047b9b26.jpeg,02-moderate,1,0.8165006637573242
+ResNet50\Car_parts\data3a\training\02-moderate\7a566f2a54cd4f228ec73698d19b6d42_thb.jpg,02-moderate,1,0.8978643417358398
+ResNet50\Car_parts\data3a\training\02-moderate\8bfbee9445b040468ea596d7ffff7f04_thb.jpg,02-moderate,1,0.9842736721038818
+ResNet50\Car_parts\data3a\training\02-moderate\9b0e806d486540c0ad3d16ab567e044b_thb.jpg,02-moderate,1,0.9652528166770935
+ResNet50\Car_parts\data3a\training\02-moderate\9da25ae9e03d4726aec50985c77a9730_thb.jpg,02-moderate,1,0.9484165906906128
+ResNet50\Car_parts\data3a\training\02-moderate\a38b006aacb1497e8df20e103e3028d3_thb.jpg,01-minor,0,0.5360658764839172
+ResNet50\Car_parts\data3a\training\02-moderate\a93df47478d8427ebdae3c34fd99faa2_thb.jpg,02-moderate,1,0.692418098449707
+ResNet50\Car_parts\data3a\training\02-moderate\aa2538583c724e36b724554e9945e9f7_thb.jpg,02-moderate,1,0.958071768283844
+ResNet50\Car_parts\data3a\training\02-moderate\acbea92ddc494768bd7117cecfe93400_thb.jpg,02-moderate,1,0.933911919593811
+ResNet50\Car_parts\data3a\training\02-moderate\c93652b2ded3483ebc823ffd2b3eb402_thb.jpg,02-moderate,1,0.8804416060447693
+ResNet50\Car_parts\data3a\training\02-moderate\d5b47650-0a70-46b0-95d8-2dd27de62574.jpeg,02-moderate,1,0.8094728589057922
+ResNet50\Car_parts\data3a\training\02-moderate\dbd9de5e80a340c6a775a647ab32b27f_thb.jpg,02-moderate,1,0.790597677230835
+ResNet50\Car_parts\data3a\training\02-moderate\download (10).jpeg,02-moderate,1,0.6019497513771057
+ResNet50\Car_parts\data3a\training\02-moderate\download (11).jpeg,02-moderate,1,0.5912685394287109
+ResNet50\Car_parts\data3a\training\02-moderate\download (12).jpeg,02-moderate,1,0.6924155950546265
+ResNet50\Car_parts\data3a\training\02-moderate\download (20).jpeg,02-moderate,1,0.660280704498291
+ResNet50\Car_parts\data3a\training\02-moderate\download (25).jpeg,02-moderate,1,0.5996069312095642
+ResNet50\Car_parts\data3a\training\02-moderate\download (3).jpeg,02-moderate,1,0.8131811618804932
+ResNet50\Car_parts\data3a\training\02-moderate\download (9).jpeg,03-severe,2,0.6348087787628174
+ResNet50\Car_parts\data3a\training\02-moderate\download.jpeg,02-moderate,1,0.7406927943229675
+ResNet50\Car_parts\data3a\training\02-moderate\e4ee5ca6a91c45a583aec23c0e7f2b3e_thb.jpg,02-moderate,1,0.9755159616470337
+ResNet50\Car_parts\data3a\training\02-moderate\f600a5058cd94fbf8c5a1b2600199022_thb.jpg,02-moderate,1,0.9502399563789368
+ResNet50\Car_parts\data3a\training\02-moderate\f80ae199fffc4d21b8d330152795ec8a_thb.jpg,02-moderate,1,0.9876309037208557
+ResNet50\Car_parts\data3a\training\02-moderate\images (1).jpeg,02-moderate,1,0.7800198197364807
+ResNet50\Car_parts\data3a\training\02-moderate\images (10).jpeg,02-moderate,1,0.8965156078338623
+ResNet50\Car_parts\data3a\training\02-moderate\images (100).jpeg,02-moderate,1,0.6476301550865173
+ResNet50\Car_parts\data3a\training\02-moderate\images (101).jpeg,03-severe,2,0.6973558664321899
+ResNet50\Car_parts\data3a\training\02-moderate\images (102).jpeg,02-moderate,1,0.9075851440429688
+ResNet50\Car_parts\data3a\training\02-moderate\images (103).jpeg,02-moderate,1,0.8233891725540161
+ResNet50\Car_parts\data3a\training\02-moderate\images (104).jpeg,03-severe,2,0.4288591146469116
+ResNet50\Car_parts\data3a\training\02-moderate\images (105).jpeg,02-moderate,1,0.9476967453956604
+ResNet50\Car_parts\data3a\training\02-moderate\images (106).jpeg,02-moderate,1,0.7701689600944519
+ResNet50\Car_parts\data3a\training\02-moderate\images (107).jpeg,02-moderate,1,0.5864144563674927
+ResNet50\Car_parts\data3a\training\02-moderate\images (108).jpeg,02-moderate,1,0.5489479899406433
+ResNet50\Car_parts\data3a\training\02-moderate\images (109).jpeg,03-severe,2,0.4540961980819702
+ResNet50\Car_parts\data3a\training\02-moderate\images (110).jpeg,02-moderate,1,0.6323428153991699
+ResNet50\Car_parts\data3a\training\02-moderate\images (111).jpeg,02-moderate,1,0.9319746494293213
+ResNet50\Car_parts\data3a\training\02-moderate\images (112).jpeg,02-moderate,1,0.9368309378623962
+ResNet50\Car_parts\data3a\training\02-moderate\images (113).jpeg,03-severe,2,0.7235056757926941
+ResNet50\Car_parts\data3a\training\02-moderate\images (114).jpeg,02-moderate,1,0.922545850276947
+ResNet50\Car_parts\data3a\training\02-moderate\images (2).jpeg,02-moderate,1,0.9464719295501709
+ResNet50\Car_parts\data3a\training\02-moderate\images (24).jpeg,03-severe,2,0.4728957712650299
+ResNet50\Car_parts\data3a\training\02-moderate\images (25).jpeg,02-moderate,1,0.5205929279327393
+ResNet50\Car_parts\data3a\training\02-moderate\images (26).jpeg,02-moderate,1,0.8875214457511902
+ResNet50\Car_parts\data3a\training\02-moderate\images (28).jpeg,02-moderate,1,0.7302594184875488
+ResNet50\Car_parts\data3a\training\02-moderate\images (29).jpeg,02-moderate,1,0.875853419303894
+ResNet50\Car_parts\data3a\training\02-moderate\images (3).jpeg,02-moderate,1,0.92249596118927
+ResNet50\Car_parts\data3a\training\02-moderate\images (30).jpeg,02-moderate,1,0.789738118648529
+ResNet50\Car_parts\data3a\training\02-moderate\images (31).jpeg,02-moderate,1,0.9835733771324158
+ResNet50\Car_parts\data3a\training\02-moderate\images (34).jpeg,01-minor,0,0.5658313632011414
+ResNet50\Car_parts\data3a\training\02-moderate\images (35).jpeg,02-moderate,1,0.7222649455070496
+ResNet50\Car_parts\data3a\training\02-moderate\images (36).jpeg,01-minor,0,0.5764461159706116
+ResNet50\Car_parts\data3a\training\02-moderate\images (37).jpeg,02-moderate,1,0.549321711063385
+ResNet50\Car_parts\data3a\training\02-moderate\images (38).jpeg,01-minor,0,0.6480461955070496
+ResNet50\Car_parts\data3a\training\02-moderate\images (39).jpeg,02-moderate,1,0.5444427728652954
+ResNet50\Car_parts\data3a\training\02-moderate\images (4).jpeg,02-moderate,1,0.7788284420967102
+ResNet50\Car_parts\data3a\training\02-moderate\images (40).jpeg,03-severe,2,0.834666907787323
+ResNet50\Car_parts\data3a\training\02-moderate\images (41).jpeg,02-moderate,1,0.561785876750946
+ResNet50\Car_parts\data3a\training\02-moderate\images (44).jpeg,02-moderate,1,0.7538642883300781
+ResNet50\Car_parts\data3a\training\02-moderate\images (45).jpeg,02-moderate,1,0.5247639417648315
+ResNet50\Car_parts\data3a\training\02-moderate\images (46).jpeg,02-moderate,1,0.8930881023406982
+ResNet50\Car_parts\data3a\training\02-moderate\images (47).jpeg,02-moderate,1,0.8498812913894653
+ResNet50\Car_parts\data3a\training\02-moderate\images (48).jpeg,02-moderate,1,0.7629267573356628
+ResNet50\Car_parts\data3a\training\02-moderate\images (49).jpeg,02-moderate,1,0.4371844232082367
+ResNet50\Car_parts\data3a\training\02-moderate\images (5).jpeg,02-moderate,1,0.5693352818489075
+ResNet50\Car_parts\data3a\training\02-moderate\images (50).jpeg,01-minor,0,0.7989344596862793
+ResNet50\Car_parts\data3a\training\02-moderate\images (51).jpeg,02-moderate,1,0.7829493880271912
+ResNet50\Car_parts\data3a\training\02-moderate\images (52).jpeg,02-moderate,1,0.8920236229896545
+ResNet50\Car_parts\data3a\training\02-moderate\images (53).jpeg,02-moderate,1,0.604641318321228
+ResNet50\Car_parts\data3a\training\02-moderate\images (54).jpeg,01-minor,0,0.8217049241065979
+ResNet50\Car_parts\data3a\training\02-moderate\images (55).jpeg,01-minor,0,0.6170675158500671
+ResNet50\Car_parts\data3a\training\02-moderate\images (56).jpeg,02-moderate,1,0.8578574657440186
+ResNet50\Car_parts\data3a\training\02-moderate\images (57).jpeg,01-minor,0,0.5979306697845459
+ResNet50\Car_parts\data3a\training\02-moderate\images (58).jpeg,01-minor,0,0.7660094499588013
+ResNet50\Car_parts\data3a\training\02-moderate\images (59).jpeg,02-moderate,1,0.9437782764434814
+ResNet50\Car_parts\data3a\training\02-moderate\images (6).jpeg,02-moderate,1,0.7094592452049255
+ResNet50\Car_parts\data3a\training\02-moderate\images (60).jpeg,02-moderate,1,0.7842587232589722
+ResNet50\Car_parts\data3a\training\02-moderate\images (61).jpeg,02-moderate,1,0.5154212117195129
+ResNet50\Car_parts\data3a\training\02-moderate\images (62).jpeg,02-moderate,1,0.8941447734832764
+ResNet50\Car_parts\data3a\training\02-moderate\images (63).jpeg,01-minor,0,0.6210979223251343
+ResNet50\Car_parts\data3a\training\02-moderate\images (64).jpeg,02-moderate,1,0.758281409740448
+ResNet50\Car_parts\data3a\training\02-moderate\images (65).jpeg,02-moderate,1,0.7398383617401123
+ResNet50\Car_parts\data3a\training\02-moderate\images (66).jpeg,01-minor,0,0.6692684292793274
+ResNet50\Car_parts\data3a\training\02-moderate\images (67).jpeg,01-minor,0,0.6734443306922913
+ResNet50\Car_parts\data3a\training\02-moderate\images (68).jpeg,03-severe,2,0.5780901908874512
+ResNet50\Car_parts\data3a\training\02-moderate\images (69).jpeg,02-moderate,1,0.5822079181671143
+ResNet50\Car_parts\data3a\training\02-moderate\images (7).jpeg,03-severe,2,0.8075038194656372
+ResNet50\Car_parts\data3a\training\02-moderate\images (70).jpeg,02-moderate,1,0.5237969756126404
+ResNet50\Car_parts\data3a\training\02-moderate\images (71).jpeg,02-moderate,1,0.6225858330726624
+ResNet50\Car_parts\data3a\training\02-moderate\images (72).jpeg,02-moderate,1,0.9288806915283203
+ResNet50\Car_parts\data3a\training\02-moderate\images (73).jpeg,02-moderate,1,0.9047606587409973
+ResNet50\Car_parts\data3a\training\02-moderate\images (74).jpeg,02-moderate,1,0.45318731665611267
+ResNet50\Car_parts\data3a\training\02-moderate\images (75).jpeg,03-severe,2,0.6006064414978027
+ResNet50\Car_parts\data3a\training\02-moderate\images (76).jpeg,02-moderate,1,0.6368132829666138
+ResNet50\Car_parts\data3a\training\02-moderate\images (77).jpeg,02-moderate,1,0.9218133091926575
+ResNet50\Car_parts\data3a\training\02-moderate\images (78).jpeg,02-moderate,1,0.6659141182899475
+ResNet50\Car_parts\data3a\training\02-moderate\images (79).jpeg,03-severe,2,0.4753413200378418
+ResNet50\Car_parts\data3a\training\02-moderate\images (8).jpeg,02-moderate,1,0.8369538187980652
+ResNet50\Car_parts\data3a\training\02-moderate\images (80).jpeg,03-severe,2,0.628502607345581
+ResNet50\Car_parts\data3a\training\02-moderate\images (81).jpeg,02-moderate,1,0.8175235986709595
+ResNet50\Car_parts\data3a\training\02-moderate\images (82).jpeg,02-moderate,1,0.7354601621627808
+ResNet50\Car_parts\data3a\training\02-moderate\images (83).jpeg,02-moderate,1,0.9208738207817078
+ResNet50\Car_parts\data3a\training\02-moderate\images (84).jpeg,02-moderate,1,0.4919443130493164
+ResNet50\Car_parts\data3a\training\02-moderate\images (85).jpeg,02-moderate,1,0.8562067747116089
+ResNet50\Car_parts\data3a\training\02-moderate\images (86).jpeg,02-moderate,1,0.9879075884819031
+ResNet50\Car_parts\data3a\training\02-moderate\images (87).jpeg,02-moderate,1,0.9706483483314514
+ResNet50\Car_parts\data3a\training\02-moderate\images (88).jpeg,01-minor,0,0.616407573223114
+ResNet50\Car_parts\data3a\training\02-moderate\images (89).jpeg,02-moderate,1,0.8458648920059204
+ResNet50\Car_parts\data3a\training\02-moderate\images (9).jpeg,02-moderate,1,0.7855575680732727
+ResNet50\Car_parts\data3a\training\02-moderate\images (90).jpeg,03-severe,2,0.8636931777000427
+ResNet50\Car_parts\data3a\training\02-moderate\images (91).jpeg,02-moderate,1,0.5571057200431824
+ResNet50\Car_parts\data3a\training\02-moderate\images (92).jpeg,02-moderate,1,0.5655207633972168
+ResNet50\Car_parts\data3a\training\02-moderate\images (93).jpeg,02-moderate,1,0.6630823016166687
+ResNet50\Car_parts\data3a\training\02-moderate\images (94).jpeg,02-moderate,1,0.5081974864006042
+ResNet50\Car_parts\data3a\training\02-moderate\images (95).jpeg,02-moderate,1,0.8053316473960876
+ResNet50\Car_parts\data3a\training\02-moderate\images (96).jpeg,02-moderate,1,0.8591226935386658
+ResNet50\Car_parts\data3a\training\02-moderate\images (97).jpeg,03-severe,2,0.7538447380065918
+ResNet50\Car_parts\data3a\training\02-moderate\images (98).jpeg,03-severe,2,0.5758910179138184
+ResNet50\Car_parts\data3a\training\02-moderate\images (99).jpeg,02-moderate,1,0.9108129143714905
+ResNet50\Car_parts\data3a\training\02-moderate\images - 2022-12-12T151411.371.jpeg,03-severe,2,0.8008869290351868
+ResNet50\Car_parts\data3a\training\02-moderate\images - 2022-12-12T151411.576.jpeg,02-moderate,1,0.6823145747184753
+ResNet50\Car_parts\data3a\training\02-moderate\images - 2022-12-12T151412.846.jpeg,02-moderate,1,0.933454692363739
+ResNet50\Car_parts\data3a\training\02-moderate\images - 2022-12-12T151412.931.jpeg,02-moderate,1,0.4835962653160095
+ResNet50\Car_parts\data3a\training\02-moderate\images - 2022-12-12T151413.195.jpeg,01-minor,0,0.46591025590896606
+ResNet50\Car_parts\data3a\training\02-moderate\images - 2022-12-12T151413.301.jpeg,02-moderate,1,0.9232937097549438
+ResNet50\Car_parts\data3a\training\02-moderate\images - 2022-12-12T151414.228.jpeg,02-moderate,1,0.5448832511901855
+ResNet50\Car_parts\data3a\training\02-moderate\images - 2022-12-12T151414.507.jpeg,01-minor,0,0.6325398683547974
+ResNet50\Car_parts\data3a\training\02-moderate\images - 2022-12-12T151420.112.jpeg,03-severe,2,0.6966936588287354
+ResNet50\Car_parts\data3a\training\02-moderate\images - 2022-12-12T151420.224.jpeg,02-moderate,1,0.6036717295646667
+ResNet50\Car_parts\data3a\training\02-moderate\images - 2022-12-12T151420.761.jpeg,02-moderate,1,0.754984438419342
+ResNet50\Car_parts\data3a\training\02-moderate\images - 2022-12-13T213955.098.jpeg,02-moderate,1,0.872130274772644
+ResNet50\Car_parts\data3a\training\02-moderate\images - 2022-12-13T213955.147.jpeg,02-moderate,1,0.8110294938087463
+ResNet50\Car_parts\data3a\training\02-moderate\images - 2022-12-13T215956.191.jpeg,02-moderate,1,0.9290514588356018
+ResNet50\Car_parts\data3a\training\03-severe\0001.JPEG,03-severe,2,0.8902679085731506
+ResNet50\Car_parts\data3a\training\03-severe\0002.JPEG,03-severe,2,0.7827111482620239
+ResNet50\Car_parts\data3a\training\03-severe\0003.JPEG,03-severe,2,0.8308522701263428
+ResNet50\Car_parts\data3a\training\03-severe\0004.JPEG,02-moderate,1,0.42982450127601624
+ResNet50\Car_parts\data3a\training\03-severe\0005.JPEG,02-moderate,1,0.5301899313926697
+ResNet50\Car_parts\data3a\training\03-severe\0006.JPEG,03-severe,2,0.8346136212348938
+ResNet50\Car_parts\data3a\training\03-severe\0007.JPEG,02-moderate,1,0.45175349712371826
+ResNet50\Car_parts\data3a\training\03-severe\0008.JPEG,03-severe,2,0.7647368907928467
+ResNet50\Car_parts\data3a\training\03-severe\0009.JPEG,03-severe,2,0.7607278823852539
+ResNet50\Car_parts\data3a\training\03-severe\0010.JPEG,03-severe,2,0.7180399298667908
+ResNet50\Car_parts\data3a\training\03-severe\0011.JPEG,03-severe,2,0.9795823097229004
+ResNet50\Car_parts\data3a\training\03-severe\0012.JPEG,03-severe,2,0.530978798866272
+ResNet50\Car_parts\data3a\training\03-severe\0013.JPEG,02-moderate,1,0.8270836472511292
+ResNet50\Car_parts\data3a\training\03-severe\0014.JPEG,03-severe,2,0.9084362983703613
+ResNet50\Car_parts\data3a\training\03-severe\0015.JPEG,02-moderate,1,0.5117190480232239
+ResNet50\Car_parts\data3a\training\03-severe\0016.JPEG,02-moderate,1,0.5381161570549011
+ResNet50\Car_parts\data3a\training\03-severe\0017.JPEG,03-severe,2,0.839291512966156
+ResNet50\Car_parts\data3a\training\03-severe\0018.JPEG,03-severe,2,0.8652751445770264
+ResNet50\Car_parts\data3a\training\03-severe\0019.JPEG,03-severe,2,0.973162055015564
+ResNet50\Car_parts\data3a\training\03-severe\0020.JPEG,03-severe,2,0.6008507013320923
+ResNet50\Car_parts\data3a\training\03-severe\0021.JPEG,02-moderate,1,0.5303109884262085
+ResNet50\Car_parts\data3a\training\03-severe\0022.JPEG,03-severe,2,0.875764012336731
+ResNet50\Car_parts\data3a\training\03-severe\0023.jpeg,02-moderate,1,0.9131687879562378
+ResNet50\Car_parts\data3a\training\03-severe\0024.JPEG,03-severe,2,0.9181720614433289
+ResNet50\Car_parts\data3a\training\03-severe\0025.JPEG,01-minor,0,0.46932369470596313
+ResNet50\Car_parts\data3a\training\03-severe\0026.JPEG,03-severe,2,0.8262391686439514
+ResNet50\Car_parts\data3a\training\03-severe\0027.JPEG,03-severe,2,0.9592219591140747
+ResNet50\Car_parts\data3a\training\03-severe\0028.JPEG,03-severe,2,0.8719841837882996
+ResNet50\Car_parts\data3a\training\03-severe\0029.JPEG,03-severe,2,0.8822283148765564
+ResNet50\Car_parts\data3a\training\03-severe\0030.JPEG,03-severe,2,0.5622328519821167
+ResNet50\Car_parts\data3a\training\03-severe\0031.JPEG,03-severe,2,0.6291066408157349
+ResNet50\Car_parts\data3a\training\03-severe\0032.jpeg,03-severe,2,0.7181306481361389
+ResNet50\Car_parts\data3a\training\03-severe\0033.jpeg,03-severe,2,0.9426822662353516
+ResNet50\Car_parts\data3a\training\03-severe\0034.JPEG,03-severe,2,0.7360986471176147
+ResNet50\Car_parts\data3a\training\03-severe\0035.JPEG,03-severe,2,0.9824397563934326
+ResNet50\Car_parts\data3a\training\03-severe\0036.JPEG,03-severe,2,0.9327806234359741
+ResNet50\Car_parts\data3a\training\03-severe\0037.JPEG,03-severe,2,0.7419794797897339
+ResNet50\Car_parts\data3a\training\03-severe\0038.JPEG,03-severe,2,0.9159724116325378
+ResNet50\Car_parts\data3a\training\03-severe\0039.JPEG,03-severe,2,0.751956582069397
+ResNet50\Car_parts\data3a\training\03-severe\0040.JPEG,03-severe,2,0.5297380089759827
+ResNet50\Car_parts\data3a\training\03-severe\0041.JPEG,03-severe,2,0.9053440093994141
+ResNet50\Car_parts\data3a\training\03-severe\0042.JPEG,03-severe,2,0.8595944046974182
+ResNet50\Car_parts\data3a\training\03-severe\0043.JPEG,03-severe,2,0.850763738155365
+ResNet50\Car_parts\data3a\training\03-severe\0044.JPEG,03-severe,2,0.5895898938179016
+ResNet50\Car_parts\data3a\training\03-severe\0045.JPEG,03-severe,2,0.7891764044761658
+ResNet50\Car_parts\data3a\training\03-severe\0046.JPEG,03-severe,2,0.6960090398788452
+ResNet50\Car_parts\data3a\training\03-severe\0047.JPEG,03-severe,2,0.852188229560852
+ResNet50\Car_parts\data3a\training\03-severe\0048.JPEG,03-severe,2,0.5031217336654663
+ResNet50\Car_parts\data3a\training\03-severe\0049.jpeg,03-severe,2,0.7868872284889221
+ResNet50\Car_parts\data3a\training\03-severe\0050.JPEG,03-severe,2,0.8835833072662354
+ResNet50\Car_parts\data3a\training\03-severe\0051.JPEG,03-severe,2,0.5408061146736145
+ResNet50\Car_parts\data3a\training\03-severe\0052.JPEG,03-severe,2,0.9384899735450745
+ResNet50\Car_parts\data3a\training\03-severe\0053.JPEG,03-severe,2,0.7564780712127686
+ResNet50\Car_parts\data3a\training\03-severe\0054.jpeg,03-severe,2,0.8811958432197571
+ResNet50\Car_parts\data3a\training\03-severe\0055.JPEG,02-moderate,1,0.4548913538455963
+ResNet50\Car_parts\data3a\training\03-severe\0056.JPEG,03-severe,2,0.4879944920539856
+ResNet50\Car_parts\data3a\training\03-severe\0057.JPEG,03-severe,2,0.7670579552650452
+ResNet50\Car_parts\data3a\training\03-severe\0058.JPEG,03-severe,2,0.5070735216140747
+ResNet50\Car_parts\data3a\training\03-severe\0059.JPEG,03-severe,2,0.8717756271362305
+ResNet50\Car_parts\data3a\training\03-severe\0060.JPEG,03-severe,2,0.9201479554176331
+ResNet50\Car_parts\data3a\training\03-severe\0061.JPEG,02-moderate,1,0.39705154299736023
+ResNet50\Car_parts\data3a\training\03-severe\0062.JPEG,03-severe,2,0.6594758033752441
+ResNet50\Car_parts\data3a\training\03-severe\0063.JPEG,03-severe,2,0.84510338306427
+ResNet50\Car_parts\data3a\training\03-severe\0064.JPEG,03-severe,2,0.8484925627708435
+ResNet50\Car_parts\data3a\training\03-severe\0065.JPEG,03-severe,2,0.7799988389015198
+ResNet50\Car_parts\data3a\training\03-severe\0066.JPEG,03-severe,2,0.9672104120254517
+ResNet50\Car_parts\data3a\training\03-severe\0067.JPEG,02-moderate,1,0.6931028962135315
+ResNet50\Car_parts\data3a\training\03-severe\0068.JPEG,03-severe,2,0.9388278722763062
+ResNet50\Car_parts\data3a\training\03-severe\0069.JPEG,03-severe,2,0.966131329536438
+ResNet50\Car_parts\data3a\training\03-severe\0070.JPEG,03-severe,2,0.871895432472229
+ResNet50\Car_parts\data3a\training\03-severe\0071.JPEG,03-severe,2,0.8341835141181946
+ResNet50\Car_parts\data3a\training\03-severe\0072.JPEG,03-severe,2,0.8078493475914001
+ResNet50\Car_parts\data3a\training\03-severe\0073.JPEG,03-severe,2,0.9436736106872559
+ResNet50\Car_parts\data3a\training\03-severe\0074.JPEG,03-severe,2,0.9022536873817444
+ResNet50\Car_parts\data3a\training\03-severe\0075.JPEG,03-severe,2,0.825798511505127
+ResNet50\Car_parts\data3a\training\03-severe\0076.JPEG,03-severe,2,0.9080255627632141
+ResNet50\Car_parts\data3a\training\03-severe\0077.JPEG,03-severe,2,0.671535849571228
+ResNet50\Car_parts\data3a\training\03-severe\0078.JPEG,03-severe,2,0.8919580578804016
+ResNet50\Car_parts\data3a\training\03-severe\0079.JPEG,03-severe,2,0.5588098168373108
+ResNet50\Car_parts\data3a\training\03-severe\0080.JPEG,02-moderate,1,0.5002450346946716
+ResNet50\Car_parts\data3a\training\03-severe\0081.JPEG,03-severe,2,0.6990556716918945
+ResNet50\Car_parts\data3a\training\03-severe\0082.JPEG,03-severe,2,0.7276133298873901
+ResNet50\Car_parts\data3a\training\03-severe\0083.JPEG,02-moderate,1,0.5831934809684753
+ResNet50\Car_parts\data3a\training\03-severe\0084.JPEG,03-severe,2,0.9431618452072144
+ResNet50\Car_parts\data3a\training\03-severe\0085.JPEG,03-severe,2,0.8775952458381653
+ResNet50\Car_parts\data3a\training\03-severe\0086.JPEG,03-severe,2,0.8540431261062622
+ResNet50\Car_parts\data3a\training\03-severe\0087.JPEG,03-severe,2,0.47180044651031494
+ResNet50\Car_parts\data3a\training\03-severe\0088.JPEG,03-severe,2,0.9117398262023926
+ResNet50\Car_parts\data3a\training\03-severe\0089.JPEG,03-severe,2,0.7738884687423706
+ResNet50\Car_parts\data3a\training\03-severe\0090.JPEG,03-severe,2,0.87654048204422
+ResNet50\Car_parts\data3a\training\03-severe\0091.JPEG,03-severe,2,0.5537229180335999
+ResNet50\Car_parts\data3a\training\03-severe\0092.JPEG,03-severe,2,0.8748765587806702
+ResNet50\Car_parts\data3a\training\03-severe\0093.JPEG,03-severe,2,0.8533768057823181
+ResNet50\Car_parts\data3a\training\03-severe\0094.JPEG,03-severe,2,0.9336341023445129
+ResNet50\Car_parts\data3a\training\03-severe\0095.JPEG,02-moderate,1,0.5342642068862915
+ResNet50\Car_parts\data3a\training\03-severe\0096.JPEG,03-severe,2,0.8375915288925171
+ResNet50\Car_parts\data3a\training\03-severe\0097.JPEG,03-severe,2,0.9347473978996277
+ResNet50\Car_parts\data3a\training\03-severe\0098.JPEG,03-severe,2,0.7156274318695068
+ResNet50\Car_parts\data3a\training\03-severe\0099.JPEG,02-moderate,1,0.6970632076263428
+ResNet50\Car_parts\data3a\training\03-severe\0100.JPEG,03-severe,2,0.8549280762672424
+ResNet50\Car_parts\data3a\training\03-severe\0101.JPEG,03-severe,2,0.9756927490234375
+ResNet50\Car_parts\data3a\training\03-severe\0102.JPEG,03-severe,2,0.8462344408035278
+ResNet50\Car_parts\data3a\training\03-severe\0103.JPEG,03-severe,2,0.7365999817848206
+ResNet50\Car_parts\data3a\training\03-severe\0104.JPEG,03-severe,2,0.75212162733078
+ResNet50\Car_parts\data3a\training\03-severe\0105.JPEG,02-moderate,1,0.5188987255096436
+ResNet50\Car_parts\data3a\training\03-severe\0106.JPEG,03-severe,2,0.6031827926635742
+ResNet50\Car_parts\data3a\training\03-severe\0107.JPEG,03-severe,2,0.5044029951095581
+ResNet50\Car_parts\data3a\training\03-severe\0108.jpeg,03-severe,2,0.9118406176567078
+ResNet50\Car_parts\data3a\training\03-severe\0109.JPEG,03-severe,2,0.9686244130134583
+ResNet50\Car_parts\data3a\training\03-severe\0110.JPEG,03-severe,2,0.6839495897293091
+ResNet50\Car_parts\data3a\training\03-severe\0111.JPEG,03-severe,2,0.973954439163208
+ResNet50\Car_parts\data3a\training\03-severe\0112.JPEG,03-severe,2,0.7314465641975403
+ResNet50\Car_parts\data3a\training\03-severe\0113.JPEG,02-moderate,1,0.6267338395118713
+ResNet50\Car_parts\data3a\training\03-severe\0114.JPEG,02-moderate,1,0.7484582662582397
+ResNet50\Car_parts\data3a\training\03-severe\0115.JPEG,03-severe,2,0.8791109919548035
+ResNet50\Car_parts\data3a\training\03-severe\0116.JPEG,03-severe,2,0.9075889587402344
+ResNet50\Car_parts\data3a\training\03-severe\0117.JPEG,03-severe,2,0.9328278303146362
+ResNet50\Car_parts\data3a\training\03-severe\0118.JPEG,03-severe,2,0.9617432355880737
+ResNet50\Car_parts\data3a\training\03-severe\0119.JPEG,03-severe,2,0.9242327213287354
+ResNet50\Car_parts\data3a\training\03-severe\0120.JPEG,03-severe,2,0.8444441556930542
+ResNet50\Car_parts\data3a\training\03-severe\0121.JPEG,03-severe,2,0.7454608082771301
+ResNet50\Car_parts\data3a\training\03-severe\0122.JPEG,02-moderate,1,0.5614917278289795
+ResNet50\Car_parts\data3a\training\03-severe\0123.JPEG,03-severe,2,0.9468291401863098
+ResNet50\Car_parts\data3a\training\03-severe\0124.JPEG,03-severe,2,0.8312477469444275
+ResNet50\Car_parts\data3a\training\03-severe\0125.JPEG,03-severe,2,0.8462867140769958
+ResNet50\Car_parts\data3a\training\03-severe\0126.JPEG,03-severe,2,0.7155165672302246
+ResNet50\Car_parts\data3a\training\03-severe\0127.JPEG,03-severe,2,0.9283874034881592
+ResNet50\Car_parts\data3a\training\03-severe\0128.JPEG,03-severe,2,0.7022597193717957
+ResNet50\Car_parts\data3a\training\03-severe\0129.JPEG,03-severe,2,0.9427728652954102
+ResNet50\Car_parts\data3a\training\03-severe\0130.JPEG,03-severe,2,0.9522419571876526
+ResNet50\Car_parts\data3a\training\03-severe\0131.JPEG,03-severe,2,0.7134647369384766
+ResNet50\Car_parts\data3a\training\03-severe\0132.JPEG,03-severe,2,0.9539977312088013
+ResNet50\Car_parts\data3a\training\03-severe\0133.JPEG,02-moderate,1,0.6299580335617065
+ResNet50\Car_parts\data3a\training\03-severe\0134.JPEG,02-moderate,1,0.5309661626815796
+ResNet50\Car_parts\data3a\training\03-severe\0135.JPEG,02-moderate,1,0.8430866599082947
+ResNet50\Car_parts\data3a\training\03-severe\0136.JPEG,03-severe,2,0.7871095538139343
+ResNet50\Car_parts\data3a\training\03-severe\0137.JPEG,02-moderate,1,0.7166844606399536
+ResNet50\Car_parts\data3a\training\03-severe\0138.JPEG,03-severe,2,0.8904054164886475
+ResNet50\Car_parts\data3a\training\03-severe\0139.JPEG,03-severe,2,0.9029430150985718
+ResNet50\Car_parts\data3a\training\03-severe\0140.JPEG,03-severe,2,0.6288809180259705
+ResNet50\Car_parts\data3a\training\03-severe\0141.JPEG,03-severe,2,0.8656987547874451
+ResNet50\Car_parts\data3a\training\03-severe\0142.JPEG,03-severe,2,0.7514657378196716
+ResNet50\Car_parts\data3a\training\03-severe\0143.JPEG,03-severe,2,0.7775297164916992
+ResNet50\Car_parts\data3a\training\03-severe\0144.JPEG,02-moderate,1,0.5078355073928833
+ResNet50\Car_parts\data3a\training\03-severe\0145.JPEG,03-severe,2,0.5107457637786865
+ResNet50\Car_parts\data3a\training\03-severe\0146.JPEG,03-severe,2,0.7073419690132141
+ResNet50\Car_parts\data3a\training\03-severe\0147.JPEG,03-severe,2,0.8608570098876953
+ResNet50\Car_parts\data3a\training\03-severe\0148.JPEG,03-severe,2,0.8658385276794434
+ResNet50\Car_parts\data3a\training\03-severe\0149.jpeg,02-moderate,1,0.6464672088623047
+ResNet50\Car_parts\data3a\training\03-severe\0150.JPEG,03-severe,2,0.9416592717170715
+ResNet50\Car_parts\data3a\training\03-severe\0151.JPEG,03-severe,2,0.9660993814468384
+ResNet50\Car_parts\data3a\training\03-severe\0152.JPEG,03-severe,2,0.9639025926589966
+ResNet50\Car_parts\data3a\training\03-severe\0153.JPEG,03-severe,2,0.8823015093803406
+ResNet50\Car_parts\data3a\training\03-severe\0154.JPEG,03-severe,2,0.9094144701957703
+ResNet50\Car_parts\data3a\training\03-severe\0155.JPEG,03-severe,2,0.8186296820640564
+ResNet50\Car_parts\data3a\training\03-severe\0156.JPEG,03-severe,2,0.9511194229125977
+ResNet50\Car_parts\data3a\training\03-severe\0157.JPEG,02-moderate,1,0.41898787021636963
+ResNet50\Car_parts\data3a\training\03-severe\0158.JPEG,03-severe,2,0.9662976861000061
+ResNet50\Car_parts\data3a\training\03-severe\0159.JPEG,03-severe,2,0.836161732673645
+ResNet50\Car_parts\data3a\training\03-severe\0160.JPEG,03-severe,2,0.7961086630821228
+ResNet50\Car_parts\data3a\training\03-severe\0161.JPEG,03-severe,2,0.7759593725204468
+ResNet50\Car_parts\data3a\training\03-severe\0162.JPEG,03-severe,2,0.6770068407058716
+ResNet50\Car_parts\data3a\training\03-severe\0163.JPEG,03-severe,2,0.9628435373306274
+ResNet50\Car_parts\data3a\training\03-severe\0164.JPEG,03-severe,2,0.677507221698761
+ResNet50\Car_parts\data3a\training\03-severe\0165.JPEG,03-severe,2,0.7643246054649353
+ResNet50\Car_parts\data3a\training\03-severe\0166.JPEG,02-moderate,1,0.787092924118042
+ResNet50\Car_parts\data3a\training\03-severe\0167.JPEG,02-moderate,1,0.4654451012611389
+ResNet50\Car_parts\data3a\training\03-severe\0168.JPEG,02-moderate,1,0.6496546864509583
+ResNet50\Car_parts\data3a\training\03-severe\0169.JPEG,03-severe,2,0.975338876247406
+ResNet50\Car_parts\data3a\training\03-severe\0170.JPEG,02-moderate,1,0.518747091293335
+ResNet50\Car_parts\data3a\training\03-severe\0171.jpeg,03-severe,2,0.6750299334526062
+ResNet50\Car_parts\data3a\training\03-severe\0172.JPEG,03-severe,2,0.9032796025276184
+ResNet50\Car_parts\data3a\training\03-severe\0173.JPEG,03-severe,2,0.6164557337760925
+ResNet50\Car_parts\data3a\training\03-severe\0174.JPEG,02-moderate,1,0.650897204875946
+ResNet50\Car_parts\data3a\training\03-severe\0175.JPEG,03-severe,2,0.6109091639518738
+ResNet50\Car_parts\data3a\training\03-severe\0176.JPEG,03-severe,2,0.5078476071357727
+ResNet50\Car_parts\data3a\training\03-severe\0177.JPEG,03-severe,2,0.8763698935508728
+ResNet50\Car_parts\data3a\training\03-severe\0178.JPEG,02-moderate,1,0.5490052700042725
+ResNet50\Car_parts\data3a\training\03-severe\0179.jpeg,03-severe,2,0.7190637588500977
+ResNet50\Car_parts\data3a\training\03-severe\0180.JPEG,03-severe,2,0.7906898856163025
+ResNet50\Car_parts\data3a\training\03-severe\0181.JPEG,03-severe,2,0.924086332321167
+ResNet50\Car_parts\data3a\training\03-severe\0182.JPEG,03-severe,2,0.8708089590072632
+ResNet50\Car_parts\data3a\training\03-severe\0183.JPEG,03-severe,2,0.6052500009536743
+ResNet50\Car_parts\data3a\training\03-severe\0184.JPEG,03-severe,2,0.7561060786247253
+ResNet50\Car_parts\data3a\training\03-severe\0185.JPEG,02-moderate,1,0.49658095836639404
+ResNet50\Car_parts\data3a\training\03-severe\0186.jpeg,02-moderate,1,0.7108234167098999
+ResNet50\Car_parts\data3a\training\03-severe\0187.JPEG,03-severe,2,0.9155371189117432
+ResNet50\Car_parts\data3a\training\03-severe\0188.JPEG,02-moderate,1,0.7187604308128357
+ResNet50\Car_parts\data3a\training\03-severe\0189.JPEG,03-severe,2,0.5523983836174011
+ResNet50\Car_parts\data3a\training\03-severe\0190.JPEG,03-severe,2,0.5747562050819397
+ResNet50\Car_parts\data3a\training\03-severe\0191.JPEG,02-moderate,1,0.8785820007324219
+ResNet50\Car_parts\data3a\training\03-severe\0192.jpeg,03-severe,2,0.9249022603034973
+ResNet50\Car_parts\data3a\training\03-severe\0193.JPEG,03-severe,2,0.7561070322990417
+ResNet50\Car_parts\data3a\training\03-severe\0194.jpeg,03-severe,2,0.7547708749771118
+ResNet50\Car_parts\data3a\training\03-severe\0195.JPEG,03-severe,2,0.4945732355117798
+ResNet50\Car_parts\data3a\training\03-severe\0196.JPEG,03-severe,2,0.9150081276893616
+ResNet50\Car_parts\data3a\training\03-severe\0197.jpeg,03-severe,2,0.9132253527641296
+ResNet50\Car_parts\data3a\training\03-severe\0198.JPEG,03-severe,2,0.8850393295288086
+ResNet50\Car_parts\data3a\training\03-severe\0199.JPEG,03-severe,2,0.8286101222038269
+ResNet50\Car_parts\data3a\training\03-severe\0200.jpeg,02-moderate,1,0.66359543800354
+ResNet50\Car_parts\data3a\training\03-severe\0201.JPEG,03-severe,2,0.9482479095458984
+ResNet50\Car_parts\data3a\training\03-severe\0202.JPEG,03-severe,2,0.9104541540145874
+ResNet50\Car_parts\data3a\training\03-severe\0203.JPEG,03-severe,2,0.8949111700057983
+ResNet50\Car_parts\data3a\training\03-severe\0204.JPEG,03-severe,2,0.9088097810745239
+ResNet50\Car_parts\data3a\training\03-severe\0205.JPEG,03-severe,2,0.5392136573791504
+ResNet50\Car_parts\data3a\training\03-severe\0206.JPEG,03-severe,2,0.827073335647583
+ResNet50\Car_parts\data3a\training\03-severe\0207.JPEG,03-severe,2,0.5153684020042419
+ResNet50\Car_parts\data3a\training\03-severe\0208.JPEG,03-severe,2,0.8707354664802551
+ResNet50\Car_parts\data3a\training\03-severe\0209.JPEG,03-severe,2,0.6570448875427246
+ResNet50\Car_parts\data3a\training\03-severe\0210.JPEG,03-severe,2,0.6311761736869812
+ResNet50\Car_parts\data3a\training\03-severe\0211.JPEG,03-severe,2,0.9448610544204712
+ResNet50\Car_parts\data3a\training\03-severe\0212.JPEG,03-severe,2,0.7756208181381226
+ResNet50\Car_parts\data3a\training\03-severe\0213.JPEG,03-severe,2,0.7815310955047607
+ResNet50\Car_parts\data3a\training\03-severe\0214.JPEG,02-moderate,1,0.4897785782814026
+ResNet50\Car_parts\data3a\training\03-severe\0215.JPEG,02-moderate,1,0.5858302116394043
+ResNet50\Car_parts\data3a\training\03-severe\0216.JPEG,03-severe,2,0.741093099117279
+ResNet50\Car_parts\data3a\training\03-severe\0217.jpeg,02-moderate,1,0.8487914800643921
+ResNet50\Car_parts\data3a\training\03-severe\0218.JPEG,03-severe,2,0.9216360449790955
+ResNet50\Car_parts\data3a\training\03-severe\0219.JPEG,03-severe,2,0.955781102180481
+ResNet50\Car_parts\data3a\training\03-severe\0220.JPEG,03-severe,2,0.9369280338287354
+ResNet50\Car_parts\data3a\training\03-severe\0221.JPEG,02-moderate,1,0.5324490070343018
+ResNet50\Car_parts\data3a\training\03-severe\0222.JPEG,03-severe,2,0.9567404985427856
+ResNet50\Car_parts\data3a\training\03-severe\0223.JPEG,03-severe,2,0.8588438630104065
+ResNet50\Car_parts\data3a\training\03-severe\0224.JPEG,03-severe,2,0.7272154092788696
+ResNet50\Car_parts\data3a\training\03-severe\0225.JPEG,03-severe,2,0.9398745894432068
+ResNet50\Car_parts\data3a\training\03-severe\0226.JPEG,02-moderate,1,0.6858500242233276
+ResNet50\Car_parts\data3a\training\03-severe\0227.JPEG,03-severe,2,0.8556210398674011
+ResNet50\Car_parts\data3a\training\03-severe\0228.JPEG,02-moderate,1,0.6707692742347717
+ResNet50\Car_parts\data3a\training\03-severe\0229.JPEG,03-severe,2,0.7508941292762756
+ResNet50\Car_parts\data3a\training\03-severe\0230.JPEG,02-moderate,1,0.7101662158966064
+ResNet50\Car_parts\data3a\training\03-severe\0231.JPEG,03-severe,2,0.7407445907592773
+ResNet50\Car_parts\data3a\training\03-severe\0232.JPEG,03-severe,2,0.7025787830352783
+ResNet50\Car_parts\data3a\training\03-severe\0233.JPEG,03-severe,2,0.9539556503295898
+ResNet50\Car_parts\data3a\training\03-severe\0234.JPEG,03-severe,2,0.8426146507263184
+ResNet50\Car_parts\data3a\training\03-severe\0235.JPEG,03-severe,2,0.9261074662208557
+ResNet50\Car_parts\data3a\training\03-severe\0236.jpeg,03-severe,2,0.84434974193573
+ResNet50\Car_parts\data3a\training\03-severe\0237.JPEG,03-severe,2,0.5864333510398865
+ResNet50\Car_parts\data3a\training\03-severe\0238.JPEG,03-severe,2,0.8192440271377563
+ResNet50\Car_parts\data3a\training\03-severe\0239.JPEG,03-severe,2,0.6668627858161926
+ResNet50\Car_parts\data3a\training\03-severe\0240.JPEG,03-severe,2,0.6031149625778198
+ResNet50\Car_parts\data3a\training\03-severe\0241.JPEG,02-moderate,1,0.7071452140808105
+ResNet50\Car_parts\data3a\training\03-severe\0242.JPEG,03-severe,2,0.973131537437439
+ResNet50\Car_parts\data3a\training\03-severe\0243.JPEG,03-severe,2,0.9373567700386047
+ResNet50\Car_parts\data3a\training\03-severe\0244.JPEG,03-severe,2,0.9671307802200317
+ResNet50\Car_parts\data3a\training\03-severe\0245.JPEG,03-severe,2,0.6961089968681335
+ResNet50\Car_parts\data3a\training\03-severe\0246.JPEG,03-severe,2,0.9627313017845154
+ResNet50\Car_parts\data3a\training\03-severe\0247.JPEG,03-severe,2,0.7833079695701599
+ResNet50\Car_parts\data3a\training\03-severe\0248.jpeg,02-moderate,1,0.7107105255126953
+ResNet50\Car_parts\data3a\training\03-severe\0249.JPEG,03-severe,2,0.6598404049873352
+ResNet50\Car_parts\data3a\training\03-severe\024909e6f1af4f00be4ef420354291a3_thb.jpg,02-moderate,1,0.5593920350074768
+ResNet50\Car_parts\data3a\training\03-severe\0250.JPEG,03-severe,2,0.7658675909042358
+ResNet50\Car_parts\data3a\training\03-severe\0251.JPEG,03-severe,2,0.5848203897476196
+ResNet50\Car_parts\data3a\training\03-severe\0252.JPEG,03-severe,2,0.8653048872947693
+ResNet50\Car_parts\data3a\training\03-severe\0253.JPEG,03-severe,2,0.8078973889350891
+ResNet50\Car_parts\data3a\training\03-severe\0254.JPEG,03-severe,2,0.9105541110038757
+ResNet50\Car_parts\data3a\training\03-severe\0255.JPEG,03-severe,2,0.8335047960281372
+ResNet50\Car_parts\data3a\training\03-severe\0256.JPEG,03-severe,2,0.7147910594940186
+ResNet50\Car_parts\data3a\training\03-severe\0257.JPEG,03-severe,2,0.7180294990539551
+ResNet50\Car_parts\data3a\training\03-severe\0258.JPEG,03-severe,2,0.8407082557678223
+ResNet50\Car_parts\data3a\training\03-severe\0259.JPEG,03-severe,2,0.7475470900535583
+ResNet50\Car_parts\data3a\training\03-severe\0260.JPEG,03-severe,2,0.8601581454277039
+ResNet50\Car_parts\data3a\training\03-severe\0261.JPEG,03-severe,2,0.8643649220466614
+ResNet50\Car_parts\data3a\training\03-severe\0262.JPEG,03-severe,2,0.9366371035575867
+ResNet50\Car_parts\data3a\training\03-severe\0263.JPEG,02-moderate,1,0.4620630145072937
+ResNet50\Car_parts\data3a\training\03-severe\0264.jpeg,03-severe,2,0.8995660543441772
+ResNet50\Car_parts\data3a\training\03-severe\0265.JPEG,03-severe,2,0.9599536657333374
+ResNet50\Car_parts\data3a\training\03-severe\0266.JPEG,03-severe,2,0.9622292518615723
+ResNet50\Car_parts\data3a\training\03-severe\0267.JPEG,03-severe,2,0.8886701464653015
+ResNet50\Car_parts\data3a\training\03-severe\0268.JPEG,03-severe,2,0.8202297687530518
+ResNet50\Car_parts\data3a\training\03-severe\0269.JPEG,03-severe,2,0.7393225431442261
+ResNet50\Car_parts\data3a\training\03-severe\0270.JPEG,03-severe,2,0.9283223152160645
+ResNet50\Car_parts\data3a\training\03-severe\0271.JPEG,03-severe,2,0.6274552345275879
+ResNet50\Car_parts\data3a\training\03-severe\0272.JPEG,03-severe,2,0.6410703659057617
+ResNet50\Car_parts\data3a\training\03-severe\0273.JPEG,03-severe,2,0.7543530464172363
+ResNet50\Car_parts\data3a\training\03-severe\0274.JPEG,03-severe,2,0.7737621068954468
+ResNet50\Car_parts\data3a\training\03-severe\0275.JPEG,02-moderate,1,0.7295112013816833
+ResNet50\Car_parts\data3a\training\03-severe\0276.JPEG,03-severe,2,0.9770127534866333
+ResNet50\Car_parts\data3a\training\03-severe\0277.JPEG,03-severe,2,0.5448318123817444
+ResNet50\Car_parts\data3a\training\03-severe\0278.JPEG,02-moderate,1,0.7047049403190613
+ResNet50\Car_parts\data3a\training\03-severe\0279.JPEG,03-severe,2,0.7929841876029968
+ResNet50\Car_parts\data3a\training\03-severe\0280.JPEG,03-severe,2,0.9688007235527039
+ResNet50\Car_parts\data3a\training\03-severe\0281.JPEG,02-moderate,1,0.6016381978988647
+ResNet50\Car_parts\data3a\training\03-severe\0282.JPEG,03-severe,2,0.9748100638389587
+ResNet50\Car_parts\data3a\training\03-severe\0283.JPEG,03-severe,2,0.7108457088470459
+ResNet50\Car_parts\data3a\training\03-severe\0284.JPEG,03-severe,2,0.7733176350593567
+ResNet50\Car_parts\data3a\training\03-severe\0285.JPEG,03-severe,2,0.687516987323761
+ResNet50\Car_parts\data3a\training\03-severe\0286.JPEG,03-severe,2,0.4484984874725342
+ResNet50\Car_parts\data3a\training\03-severe\0287.JPEG,03-severe,2,0.8109193444252014
+ResNet50\Car_parts\data3a\training\03-severe\0288.JPEG,02-moderate,1,0.5377670526504517
+ResNet50\Car_parts\data3a\training\03-severe\0289.JPEG,03-severe,2,0.9631437063217163
+ResNet50\Car_parts\data3a\training\03-severe\0290.JPEG,03-severe,2,0.8810474872589111
+ResNet50\Car_parts\data3a\training\03-severe\0291.JPEG,03-severe,2,0.8615358471870422
+ResNet50\Car_parts\data3a\training\03-severe\0292.JPEG,03-severe,2,0.5194243788719177
+ResNet50\Car_parts\data3a\training\03-severe\0293.JPEG,03-severe,2,0.9326775074005127
+ResNet50\Car_parts\data3a\training\03-severe\0294.JPEG,03-severe,2,0.9358400106430054
+ResNet50\Car_parts\data3a\training\03-severe\0295.JPEG,02-moderate,1,0.6006982922554016
+ResNet50\Car_parts\data3a\training\03-severe\0296.JPEG,03-severe,2,0.7122186422348022
+ResNet50\Car_parts\data3a\training\03-severe\0297.JPEG,03-severe,2,0.9074185490608215
+ResNet50\Car_parts\data3a\training\03-severe\0298.JPEG,03-severe,2,0.9791311025619507
+ResNet50\Car_parts\data3a\training\03-severe\0299.JPEG,03-severe,2,0.83054518699646
+ResNet50\Car_parts\data3a\training\03-severe\0300.JPEG,03-severe,2,0.8453474640846252
+ResNet50\Car_parts\data3a\training\03-severe\0301.JPEG,02-moderate,1,0.8958300352096558
+ResNet50\Car_parts\data3a\training\03-severe\0302.JPEG,02-moderate,1,0.7541239857673645
+ResNet50\Car_parts\data3a\training\03-severe\0303.JPEG,03-severe,2,0.6090136170387268
+ResNet50\Car_parts\data3a\training\03-severe\0304.JPEG,03-severe,2,0.5841690301895142
+ResNet50\Car_parts\data3a\training\03-severe\0305.JPEG,02-moderate,1,0.5119704008102417
+ResNet50\Car_parts\data3a\training\03-severe\0306.JPEG,03-severe,2,0.9597774147987366
+ResNet50\Car_parts\data3a\training\03-severe\0307.JPEG,03-severe,2,0.9699798822402954
+ResNet50\Car_parts\data3a\training\03-severe\0308.jpeg,03-severe,2,0.9246320724487305
+ResNet50\Car_parts\data3a\training\03-severe\0309.JPEG,03-severe,2,0.8626837134361267
+ResNet50\Car_parts\data3a\training\03-severe\0310.JPEG,03-severe,2,0.9335660338401794
+ResNet50\Car_parts\data3a\training\03-severe\0311.JPEG,02-moderate,1,0.3867824077606201
+ResNet50\Car_parts\data3a\training\03-severe\0312.JPEG,03-severe,2,0.7216426730155945
+ResNet50\Car_parts\data3a\training\03-severe\0313.jpeg,02-moderate,1,0.6076268553733826
+ResNet50\Car_parts\data3a\training\03-severe\0314.JPEG,02-moderate,1,0.5964312553405762
+ResNet50\Car_parts\data3a\training\03-severe\0315.JPEG,03-severe,2,0.9103820323944092
+ResNet50\Car_parts\data3a\training\03-severe\0316.JPEG,03-severe,2,0.9024156928062439
+ResNet50\Car_parts\data3a\training\03-severe\0317.JPEG,03-severe,2,0.9690603613853455
+ResNet50\Car_parts\data3a\training\03-severe\0318.JPEG,03-severe,2,0.9420210719108582
+ResNet50\Car_parts\data3a\training\03-severe\0319.JPEG,03-severe,2,0.8745338916778564
+ResNet50\Car_parts\data3a\training\03-severe\0320.JPEG,03-severe,2,0.900577962398529
+ResNet50\Car_parts\data3a\training\03-severe\0321.JPEG,02-moderate,1,0.6066001057624817
+ResNet50\Car_parts\data3a\training\03-severe\0322.JPEG,02-moderate,1,0.5676773190498352
+ResNet50\Car_parts\data3a\training\03-severe\0323.JPEG,03-severe,2,0.8965262770652771
+ResNet50\Car_parts\data3a\training\03-severe\0324.JPEG,03-severe,2,0.9061875343322754
+ResNet50\Car_parts\data3a\training\03-severe\0325.JPEG,03-severe,2,0.9238705635070801
+ResNet50\Car_parts\data3a\training\03-severe\0326.JPEG,03-severe,2,0.8423151969909668
+ResNet50\Car_parts\data3a\training\03-severe\0327.JPEG,02-moderate,1,0.6680848002433777
+ResNet50\Car_parts\data3a\training\03-severe\0328.JPEG,03-severe,2,0.639155924320221
+ResNet50\Car_parts\data3a\training\03-severe\0329.JPEG,03-severe,2,0.8193952441215515
+ResNet50\Car_parts\data3a\training\03-severe\0330.JPEG,03-severe,2,0.859326958656311
+ResNet50\Car_parts\data3a\training\03-severe\0331.JPEG,02-moderate,1,0.6413688659667969
+ResNet50\Car_parts\data3a\training\03-severe\0332.JPEG,03-severe,2,0.8326256275177002
+ResNet50\Car_parts\data3a\training\03-severe\0333.JPEG,03-severe,2,0.7113046646118164
+ResNet50\Car_parts\data3a\training\03-severe\0334.JPEG,03-severe,2,0.936927080154419
+ResNet50\Car_parts\data3a\training\03-severe\0335.JPEG,03-severe,2,0.5587767958641052
+ResNet50\Car_parts\data3a\training\03-severe\0336.JPEG,03-severe,2,0.9758716225624084
+ResNet50\Car_parts\data3a\training\03-severe\0337.JPEG,03-severe,2,0.8537296056747437
+ResNet50\Car_parts\data3a\training\03-severe\0338.JPEG,03-severe,2,0.6787137985229492
+ResNet50\Car_parts\data3a\training\03-severe\0339.JPEG,03-severe,2,0.9094144701957703
+ResNet50\Car_parts\data3a\training\03-severe\0340.JPEG,03-severe,2,0.8614233732223511
+ResNet50\Car_parts\data3a\training\03-severe\0341.JPEG,03-severe,2,0.9159532785415649
+ResNet50\Car_parts\data3a\training\03-severe\0342.JPEG,02-moderate,1,0.7269973158836365
+ResNet50\Car_parts\data3a\training\03-severe\0343.JPEG,02-moderate,1,0.6969223618507385
+ResNet50\Car_parts\data3a\training\03-severe\0344.JPEG,02-moderate,1,0.8009656071662903
+ResNet50\Car_parts\data3a\training\03-severe\0345.JPEG,03-severe,2,0.9529651403427124
+ResNet50\Car_parts\data3a\training\03-severe\0346.JPEG,03-severe,2,0.9319006204605103
+ResNet50\Car_parts\data3a\training\03-severe\0347.JPEG,02-moderate,1,0.5896137356758118
+ResNet50\Car_parts\data3a\training\03-severe\0348.JPEG,03-severe,2,0.8689872026443481
+ResNet50\Car_parts\data3a\training\03-severe\0349.JPEG,03-severe,2,0.924675464630127
+ResNet50\Car_parts\data3a\training\03-severe\0350.JPEG,03-severe,2,0.9730454087257385
+ResNet50\Car_parts\data3a\training\03-severe\0351.JPEG,03-severe,2,0.8786548376083374
+ResNet50\Car_parts\data3a\training\03-severe\0352.JPEG,03-severe,2,0.7657696008682251
+ResNet50\Car_parts\data3a\training\03-severe\0353.JPEG,03-severe,2,0.8324332237243652
+ResNet50\Car_parts\data3a\training\03-severe\0354.JPEG,02-moderate,1,0.7320051789283752
+ResNet50\Car_parts\data3a\training\03-severe\0355.JPEG,03-severe,2,0.4752131998538971
+ResNet50\Car_parts\data3a\training\03-severe\0356.JPEG,03-severe,2,0.975090503692627
+ResNet50\Car_parts\data3a\training\03-severe\0357.JPEG,03-severe,2,0.9561643004417419
+ResNet50\Car_parts\data3a\training\03-severe\0358.JPEG,03-severe,2,0.883782684803009
+ResNet50\Car_parts\data3a\training\03-severe\0359.JPEG,02-moderate,1,0.7448394298553467
+ResNet50\Car_parts\data3a\training\03-severe\0360.JPEG,03-severe,2,0.8304222226142883
+ResNet50\Car_parts\data3a\training\03-severe\0361.JPEG,03-severe,2,0.7016368508338928
+ResNet50\Car_parts\data3a\training\03-severe\0362.JPEG,03-severe,2,0.9120680093765259
+ResNet50\Car_parts\data3a\training\03-severe\0363.JPEG,03-severe,2,0.9150167107582092
+ResNet50\Car_parts\data3a\training\03-severe\0364.JPEG,03-severe,2,0.70558762550354
+ResNet50\Car_parts\data3a\training\03-severe\0365.JPEG,02-moderate,1,0.8774069547653198
+ResNet50\Car_parts\data3a\training\03-severe\0366.JPEG,03-severe,2,0.9339621663093567
+ResNet50\Car_parts\data3a\training\03-severe\0367.JPEG,03-severe,2,0.8096500635147095
+ResNet50\Car_parts\data3a\training\03-severe\0368.jpeg,03-severe,2,0.5821321606636047
+ResNet50\Car_parts\data3a\training\03-severe\0369.JPEG,03-severe,2,0.8605450987815857
+ResNet50\Car_parts\data3a\training\03-severe\0370.JPEG,03-severe,2,0.9622371196746826
+ResNet50\Car_parts\data3a\training\03-severe\0371.JPEG,02-moderate,1,0.6907254457473755
+ResNet50\Car_parts\data3a\training\03-severe\0372.JPEG,02-moderate,1,0.6330261826515198
+ResNet50\Car_parts\data3a\training\03-severe\0373.JPEG,02-moderate,1,0.4728243350982666
+ResNet50\Car_parts\data3a\training\03-severe\0374.JPEG,03-severe,2,0.6799068450927734
+ResNet50\Car_parts\data3a\training\03-severe\0375.JPEG,03-severe,2,0.9140281677246094
+ResNet50\Car_parts\data3a\training\03-severe\0376.JPEG,03-severe,2,0.9603411555290222
+ResNet50\Car_parts\data3a\training\03-severe\0377.JPEG,03-severe,2,0.8245872855186462
+ResNet50\Car_parts\data3a\training\03-severe\0378.JPEG,02-moderate,1,0.7423161864280701
+ResNet50\Car_parts\data3a\training\03-severe\0379.JPEG,01-minor,0,0.47106966376304626
+ResNet50\Car_parts\data3a\training\03-severe\0380.JPEG,02-moderate,1,0.495463490486145
+ResNet50\Car_parts\data3a\training\03-severe\0381.JPEG,03-severe,2,0.7479394674301147
+ResNet50\Car_parts\data3a\training\03-severe\0382.JPEG,02-moderate,1,0.635968029499054
+ResNet50\Car_parts\data3a\training\03-severe\0383.JPEG,03-severe,2,0.8235110640525818
+ResNet50\Car_parts\data3a\training\03-severe\0384.JPEG,03-severe,2,0.5877951979637146
+ResNet50\Car_parts\data3a\training\03-severe\0385.JPEG,02-moderate,1,0.8384838104248047
+ResNet50\Car_parts\data3a\training\03-severe\0386.JPEG,03-severe,2,0.8570449948310852
+ResNet50\Car_parts\data3a\training\03-severe\1383ec11b2a14fae9f3f37e7684b9f65_thb.jpg,03-severe,2,0.7287882566452026
+ResNet50\Car_parts\data3a\training\03-severe\26618925bc5941c2bfd60423d024777a_thb.jpg,02-moderate,1,0.5239197611808777
+ResNet50\Car_parts\data3a\training\03-severe\316a46d0d3c346acbeae81ff604abe86_thb.jpg,03-severe,2,0.585504949092865
+ResNet50\Car_parts\data3a\training\03-severe\616576435732408489aa3b5c24e17de6_thb.jpg,03-severe,2,0.7134952545166016
+ResNet50\Car_parts\data3a\training\03-severe\7ab26f4613e644e2a19884774ea42ab4_thb.jpg,02-moderate,1,0.5070379972457886
+ResNet50\Car_parts\data3a\training\03-severe\b20c00472d7d4254bd9ed326eec94587_thb.jpg,03-severe,2,0.7731241583824158
+ResNet50\Car_parts\data3a\training\03-severe\cb08b40c4556456482bef99093fa7e29_thb.jpg,03-severe,2,0.8527247309684753
+ResNet50\Car_parts\data3a\training\03-severe\download (13).jpeg,03-severe,2,0.7461240291595459
+ResNet50\Car_parts\data3a\training\03-severe\download (14).jpeg,02-moderate,1,0.7002955079078674
+ResNet50\Car_parts\data3a\training\03-severe\download (15).jpeg,03-severe,2,0.8368043303489685
+ResNet50\Car_parts\data3a\training\03-severe\download (26).jpeg,03-severe,2,0.9238885641098022
+ResNet50\Car_parts\data3a\training\03-severe\download (4).jpeg,03-severe,2,0.9021705389022827
+ResNet50\Car_parts\data3a\training\03-severe\download (7).jpeg,03-severe,2,0.8410851359367371
+ResNet50\Car_parts\data3a\training\03-severe\download (8).jpeg,03-severe,2,0.6872820854187012
+ResNet50\Car_parts\data3a\training\03-severe\f5cd0b1161fd43a6bef6f80971e6689c_thb.jpg,03-severe,2,0.8889051079750061
+ResNet50\Car_parts\data3a\training\03-severe\f805107b874f40d3a3da7d25cfa524de_thb.jpg,03-severe,2,0.8380126357078552
+ResNet50\Car_parts\data3a\training\03-severe\f81d1d37a9e44bc88828f8a6f323b6a8_thb.jpg,03-severe,2,0.7307984828948975
+ResNet50\Car_parts\data3a\training\03-severe\images (11).jpeg,03-severe,2,0.8045316934585571
+ResNet50\Car_parts\data3a\training\03-severe\images (14).jpeg,02-moderate,1,0.7404688000679016
+ResNet50\Car_parts\data3a\training\03-severe\images (15).jpeg,03-severe,2,0.6991673111915588
+ResNet50\Car_parts\data3a\training\03-severe\images (16).jpeg,03-severe,2,0.6645664572715759
+ResNet50\Car_parts\data3a\training\03-severe\images (17).jpeg,03-severe,2,0.8205726742744446
+ResNet50\Car_parts\data3a\training\03-severe\images (18).jpeg,01-minor,0,0.6957640051841736
+ResNet50\Car_parts\data3a\training\03-severe\images (19).jpeg,03-severe,2,0.6342427730560303
+ResNet50\Car_parts\data3a\training\03-severe\images (20).jpeg,03-severe,2,0.524608850479126
+ResNet50\Car_parts\data3a\training\03-severe\images (21).jpeg,02-moderate,1,0.6304954886436462
+ResNet50\Car_parts\data3a\training\03-severe\images (22).jpeg,02-moderate,1,0.529222846031189
+ResNet50\Car_parts\data3a\training\03-severe\images (23).jpeg,03-severe,2,0.6049243211746216
+ResNet50\Car_parts\data3a\training\03-severe\images (24).jpeg,03-severe,2,0.4997973144054413
+ResNet50\Car_parts\data3a\training\03-severe\images (25).jpeg,03-severe,2,0.8446537852287292
+ResNet50\Car_parts\data3a\training\03-severe\images (27).jpeg,03-severe,2,0.9324935078620911
+ResNet50\Car_parts\data3a\training\03-severe\images (28).jpeg,03-severe,2,0.6757671236991882
+ResNet50\Car_parts\data3a\training\03-severe\images (29).jpeg,02-moderate,1,0.565159261226654
+ResNet50\Car_parts\data3a\training\03-severe\images (3).jpeg,03-severe,2,0.7015845775604248
+ResNet50\Car_parts\data3a\training\03-severe\images (31).jpeg,03-severe,2,0.8621076345443726
+ResNet50\Car_parts\data3a\training\03-severe\images (32).jpeg,03-severe,2,0.8111103773117065
+ResNet50\Car_parts\data3a\training\03-severe\images (33).jpeg,03-severe,2,0.8182753920555115
+ResNet50\Car_parts\data3a\training\03-severe\images (34).jpeg,02-moderate,1,0.5076082944869995
+ResNet50\Car_parts\data3a\training\03-severe\images (35).jpeg,03-severe,2,0.7698456048965454
+ResNet50\Car_parts\data3a\training\03-severe\images (36).jpeg,03-severe,2,0.8957803845405579
+ResNet50\Car_parts\data3a\training\03-severe\images (38).jpeg,02-moderate,1,0.5540826916694641
+ResNet50\Car_parts\data3a\training\03-severe\images (39).jpeg,03-severe,2,0.9540220499038696
+ResNet50\Car_parts\data3a\training\03-severe\images (42).jpeg,03-severe,2,0.9318562150001526
+ResNet50\Car_parts\data3a\training\03-severe\images (43).jpeg,02-moderate,1,0.47690698504447937
+ResNet50\Car_parts\data3a\training\03-severe\images (50).jpeg,03-severe,2,0.8733819127082825
+ResNet50\Car_parts\data3a\training\03-severe\images (51).jpeg,03-severe,2,0.7885808348655701
+ResNet50\Car_parts\data3a\training\03-severe\images (52).jpeg,02-moderate,1,0.6560328602790833
+ResNet50\Car_parts\data3a\training\03-severe\images (53).jpeg,03-severe,2,0.8575807809829712
+ResNet50\Car_parts\data3a\training\03-severe\images (58).jpeg,03-severe,2,0.6082693934440613
+ResNet50\Car_parts\data3a\training\03-severe\images (75).jpeg,03-severe,2,0.860630989074707
+ResNet50\Car_parts\data3a\training\03-severe\images (86).jpeg,03-severe,2,0.4528943598270416
+ResNet50\Car_parts\data3a\training\03-severe\images (87).jpeg,02-moderate,1,0.411725252866745
+ResNet50\Car_parts\data3a\training\03-severe\images (88).jpeg,03-severe,2,0.8231474161148071
+ResNet50\Car_parts\data3a\training\03-severe\images (89).jpeg,03-severe,2,0.779289186000824
+ResNet50\Car_parts\data3a\training\03-severe\images (90).jpeg,03-severe,2,0.7249154448509216
+ResNet50\Car_parts\data3a\training\03-severe\images (91).jpeg,03-severe,2,0.8706673979759216
+ResNet50\Car_parts\data3a\training\03-severe\images (92).jpeg,03-severe,2,0.8101841807365417
+ResNet50\Car_parts\data3a\training\03-severe\images (93).jpeg,03-severe,2,0.6374567151069641
+ResNet50\Car_parts\data3a\training\03-severe\images (94).jpeg,02-moderate,1,0.7313566207885742
+ResNet50\Car_parts\data3a\training\03-severe\images (95).jpeg,03-severe,2,0.8861393332481384
+ResNet50\Car_parts\data3a\training\03-severe\images (96).jpeg,03-severe,2,0.9323758482933044
+ResNet50\Car_parts\data3a\training\03-severe\images (97).jpeg,03-severe,2,0.6320085525512695
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-12T151411.618.jpeg,03-severe,2,0.8405969738960266
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215956.300.jpeg,03-severe,2,0.949221134185791
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215956.441.jpeg,02-moderate,1,0.6789264678955078
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215956.524.jpeg,03-severe,2,0.8381944298744202
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215956.583.jpeg,03-severe,2,0.9041561484336853
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215956.652.jpeg,03-severe,2,0.8134692311286926
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215956.808.jpeg,02-moderate,1,0.4091391861438751
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215956.873.jpeg,03-severe,2,0.800368070602417
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215956.943.jpeg,03-severe,2,0.9707118272781372
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215957.069.jpeg,02-moderate,1,0.6279996037483215
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215957.142.jpeg,03-severe,2,0.8624736666679382
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215957.222.jpeg,03-severe,2,0.8523356318473816
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215957.318.jpeg,03-severe,2,0.8624944686889648
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215957.376.jpeg,03-severe,2,0.8949612975120544
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215957.415.jpeg,03-severe,2,0.7269360423088074
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215957.493.jpeg,03-severe,2,0.9442973732948303
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215957.532.jpeg,03-severe,2,0.81968092918396
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215957.643.jpeg,03-severe,2,0.8981356024742126
+ResNet50\Car_parts\data3a\training\03-severe\images - 2022-12-13T215957.811.jpeg,02-moderate,1,0.7670982480049133
